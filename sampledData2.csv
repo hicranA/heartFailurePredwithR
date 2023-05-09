@@ -1,0 +1,1001 @@
+"id","gender","age","hypertension","heart_disease","ever_married","work_type","Residence_type","avg_glucose_level","bmi","smoking_status","stroke"
+10744,"Male",62,0,1,"Yes","Govt_job","Rural",73.7,"26.2","never smoked",0
+31390,"Female",61,0,0,"Yes","Private","Rural",71.4,"29.2","formerly smoked",0
+16868,"Female",51,0,0,"Yes","Private","Rural",83.3,"34","formerly smoked",0
+46670,"Female",75,1,0,"Yes","Self-employed","Rural",197.06,"26.1","never smoked",0
+52367,"Male",46,0,0,"Yes","Private","Urban",58.42,"24.7","formerly smoked",0
+2218,"Male",42,0,0,"Yes","Private","Rural",107.83,"35.3","smokes",0
+17771,"Female",64,1,0,"Yes","Govt_job","Urban",211.12,"22","never smoked",0
+2304,"Male",51,0,0,"Yes","Govt_job","Rural",95.19,"24.3","smokes",0
+32733,"Female",28,0,0,"Yes","Private","Rural",106.68,"29.3","never smoked",0
+47917,"Female",82,1,0,"No","Private","Rural",61.47,"22.9","never smoked",0
+46514,"Female",50,0,0,"Yes","Govt_job","Urban",100.93,"32.7","never smoked",0
+39563,"Female",36,0,0,"Yes","Private","Rural",71.32,"43.9","smokes",0
+67941,"Female",29,0,0,"No","Self-employed","Rural",62.47,"34.4","formerly smoked",0
+42330,"Female",48,0,0,"Yes","Private","Rural",73.56,"27.1","smokes",0
+13899,"Male",30,0,0,"Yes","Private","Urban",79.55,"33.7","never smoked",0
+7828,"Male",59,1,0,"Yes","Self-employed","Urban",182.9,"34.4","smokes",0
+64373,"Male",59,0,0,"Yes","Private","Urban",200.62,"35.8","formerly smoked",1
+25199,"Female",80,0,0,"Yes","Private","Rural",71.88,"26.7","never smoked",0
+5858,"Male",32,0,0,"No","Private","Rural",93.68,"31.4","never smoked",0
+62182,"Female",17,0,0,"No","Private","Rural",120.96,"22.2","formerly smoked",0
+50463,"Female",41,0,0,"Yes","Private","Urban",78.74,"42.3","smokes",0
+20370,"Female",50,0,0,"Yes","Self-employed","Rural",103.81,"28.3","never smoked",0
+12414,"Male",76,1,0,"Yes","Private","Rural",80.15,"34.9","formerly smoked",0
+34999,"Male",26,0,0,"Yes","Private","Urban",89.18,"25.9","formerly smoked",0
+44243,"Female",29,0,0,"No","Private","Rural",78.88,"26.1","never smoked",0
+67942,"Male",21,0,0,"No","Private","Rural",65.09,"23.5","never smoked",0
+42465,"Female",78,1,0,"Yes","Private","Rural",58.66,"16.4","never smoked",0
+11313,"Female",44,0,0,"Yes","Private","Rural",86.15,"21.3","never smoked",0
+56277,"Female",38,0,0,"Yes","Private","Rural",83.8,"24.2","smokes",0
+65712,"Male",19,0,0,"No","Private","Urban",73.33,"23","never smoked",0
+69059,"Female",42,0,0,"Yes","Private","Urban",86.3,"20.1","never smoked",0
+4213,"Male",33,0,0,"No","Self-employed","Rural",91.53,"38.8","formerly smoked",0
+30620,"Male",37,0,0,"No","Private","Urban",90.95,"24.6","smokes",0
+72474,"Female",82,0,0,"Yes","Govt_job","Rural",58.3,"20.4","never smoked",0
+44583,"Female",56,0,1,"Yes","Private","Rural",70.02,"32.3","never smoked",0
+53552,"Female",62,0,0,"Yes","Private","Urban",101.19,"23.4","never smoked",0
+51125,"Female",66,0,0,"Yes","Private","Urban",89.7,"34.9","smokes",0
+59847,"Female",12,0,0,"No","children","Rural",114.34,"23.6","never smoked",0
+25613,"Female",27,0,0,"Yes","Private","Urban",70.56,"28.6","smokes",0
+59906,"Female",40,0,0,"Yes","Private","Rural",139.9,"31.7","smokes",0
+12270,"Male",71,0,0,"Yes","Govt_job","Rural",186.45,"26.7","never smoked",0
+28414,"Male",50,0,0,"Yes","Private","Urban",103.48,"29.1","smokes",0
+69979,"Male",73,0,0,"Yes","Self-employed","Rural",231.43,"23","smokes",0
+54540,"Male",46,0,0,"Yes","Private","Rural",138.07,"24.3","never smoked",0
+31092,"Female",30,0,0,"Yes","Private","Urban",88.56,"45.3","never smoked",0
+53105,"Female",29,0,0,"Yes","Private","Urban",63.9,"45.4","smokes",0
+54726,"Female",37,0,0,"Yes","Private","Urban",69.42,"33","never smoked",0
+50434,"Male",38,0,0,"Yes","Govt_job","Rural",135.74,"31.3","formerly smoked",0
+45622,"Female",25,0,0,"No","Private","Rural",118.85,"23.8","smokes",0
+45010,"Female",57,0,0,"Yes","Private","Rural",77.93,"21.7","never smoked",0
+28717,"Female",56,1,0,"Yes","Private","Rural",177.56,"30.1","never smoked",0
+43672,"Female",45,0,0,"Yes","Private","Urban",146.44,"22.8","formerly smoked",0
+1454,"Female",42,0,0,"No","Private","Urban",84.03,"31.4","never smoked",0
+70241,"Female",22,0,0,"No","Private","Urban",66.29,"20.5","smokes",0
+23836,"Male",78,0,0,"Yes","Private","Urban",90.43,"34.4","formerly smoked",0
+54206,"Female",31,0,0,"No","Govt_job","Urban",80.88,"29.3","formerly smoked",0
+50841,"Female",40,0,0,"Yes","Private","Rural",191.48,"27.9","smokes",0
+13270,"Female",40,0,0,"No","Govt_job","Urban",90.21,"41.2","never smoked",0
+12469,"Female",30,0,0,"Yes","Private","Urban",74.43,"44.8","never smoked",0
+22370,"Male",36,1,0,"No","Govt_job","Urban",113.05,"31","smokes",0
+57870,"Male",54,0,0,"Yes","Private","Rural",89.41,"42.4","smokes",0
+67864,"Male",63,0,0,"Yes","Private","Rural",57.82,"28.8","formerly smoked",0
+29869,"Male",49,0,0,"Yes","Private","Urban",199.96,"28.6","never smoked",0
+26468,"Female",45,0,0,"Yes","Govt_job","Urban",82.02,"41.8","smokes",0
+39399,"Female",32,0,0,"No","Self-employed","Urban",65.3,"40.4","never smoked",0
+40840,"Female",49,0,0,"Yes","Private","Rural",138.16,"19.4","never smoked",0
+61010,"Female",60,0,0,"Yes","Private","Urban",114.34,"30.3","smokes",0
+65038,"Female",33,0,0,"Yes","Private","Rural",57.1,"33.1","never smoked",0
+52024,"Female",61,0,0,"Yes","Govt_job","Urban",97.86,"19.1","formerly smoked",0
+51907,"Female",50,0,0,"Yes","Self-employed","Urban",121.14,"22.8","never smoked",0
+12097,"Female",72,0,0,"Yes","Private","Urban",95.2,"35","never smoked",0
+58291,"Female",52,0,0,"Yes","Private","Rural",79.8,"32.3","formerly smoked",0
+29314,"Female",73,1,1,"Yes","Govt_job","Urban",67.38,"32.8","formerly smoked",0
+2972,"Male",55,0,0,"No","Govt_job","Rural",88.65,"18.1","formerly smoked",0
+71182,"Female",61,1,0,"Yes","Govt_job","Urban",153.38,"38.8","never smoked",0
+45395,"Female",43,0,0,"Yes","Private","Urban",57.79,"24.8","smokes",0
+68209,"Male",47,0,0,"Yes","Govt_job","Rural",58.23,"31.4","formerly smoked",0
+62986,"Female",60,1,0,"Yes","Private","Rural",78.26,"41.7","formerly smoked",0
+28315,"Male",38,0,0,"Yes","Private","Rural",108.68,"32.7","never smoked",0
+7298,"Female",56,0,0,"Yes","Self-employed","Rural",70.23,"35.5","never smoked",0
+30328,"Female",69,1,0,"Yes","Govt_job","Rural",103.44,"43.1","formerly smoked",0
+45565,"Female",40,0,0,"Yes","Private","Urban",72.12,"38","never smoked",0
+52960,"Female",56,0,0,"Yes","Self-employed","Urban",98.14,"32.7","formerly smoked",0
+11630,"Female",25,0,0,"No","Private","Urban",92.06,"25.3","smokes",0
+17242,"Male",67,0,0,"Yes","Self-employed","Urban",68.52,"26.2","never smoked",0
+71010,"Female",80,0,0,"No","Self-employed","Urban",57.57,"22.8","never smoked",0
+65564,"Female",48,0,0,"Yes","Private","Urban",57.43,"53.5","formerly smoked",0
+16029,"Female",70,0,0,"Yes","Self-employed","Rural",96.82,"25","never smoked",0
+32203,"Female",57,0,0,"Yes","Self-employed","Rural",95.36,"32.4","formerly smoked",0
+68596,"Female",19,0,0,"No","Private","Urban",58.39,"28.2","never smoked",0
+10323,"Female",66,0,0,"Yes","Private","Urban",112.77,"22.7","smokes",0
+15964,"Female",64,1,0,"Yes","Private","Rural",99.4,"29.1","never smoked",0
+59049,"Female",17,0,0,"No","Private","Rural",120.58,"18.3","never smoked",0
+19824,"Male",76,1,0,"Yes","Private","Rural",243.58,"33.6","never smoked",1
+3013,"Female",79,0,0,"Yes","Self-employed","Rural",83.7,"28.7","never smoked",0
+9051,"Female",50,0,0,"Yes","Private","Urban",75.88,"30","never smoked",0
+28778,"Female",54,0,0,"Yes","Private","Urban",219.67,"29.4","smokes",0
+34402,"Female",23,0,0,"Yes","Private","Rural",91.97,"21.6","formerly smoked",0
+56939,"Female",55,0,0,"Yes","Self-employed","Rural",92.98,"25.6","never smoked",1
+51408,"Male",33,0,0,"Yes","Govt_job","Rural",77.94,"28.7","never smoked",0
+48118,"Female",82,0,0,"Yes","Self-employed","Urban",113.45,"30.3","never smoked",0
+26594,"Female",32,0,0,"Yes","Private","Urban",92.75,"34.5","smokes",0
+13598,"Male",60,0,0,"Yes","Self-employed","Urban",227.23,"40","formerly smoked",0
+33284,"Male",18,0,0,"No","Private","Rural",75.03,"23.4","never smoked",0
+20094,"Male",54,1,0,"Yes","Private","Urban",220.26,"28","formerly smoked",0
+53697,"Male",58,0,1,"Yes","Private","Rural",225.35,"26.5","smokes",0
+62475,"Male",39,1,0,"Yes","Private","Rural",88.18,"33.5","smokes",0
+64523,"Male",54,1,0,"Yes","Private","Urban",89.93,"32.1","never smoked",0
+15533,"Male",46,0,0,"No","Private","Urban",107.59,"26.2","formerly smoked",0
+65748,"Female",46,0,0,"Yes","Private","Urban",180.45,"22.5","never smoked",0
+17270,"Female",56,0,0,"Yes","Private","Urban",82.12,"32.5","smokes",0
+45472,"Male",22,0,0,"Yes","Private","Urban",138.55,"24","never smoked",0
+1116,"Female",49,0,0,"No","Govt_job","Rural",104.08,"26.6","never smoked",0
+47113,"Female",67,0,0,"Yes","Self-employed","Rural",110.42,"24.9","never smoked",0
+40732,"Female",50,0,0,"Yes","Self-employed","Rural",126.85,"49.5","formerly smoked",0
+54065,"Female",45,0,0,"Yes","Private","Urban",91.04,"21.1","never smoked",0
+58617,"Female",43,0,0,"Yes","Self-employed","Rural",118.89,"43.6","never smoked",0
+4753,"Male",82,0,1,"Yes","Self-employed","Urban",228.92,"27.9","formerly smoked",0
+8208,"Male",19,0,0,"No","Private","Rural",95.18,"24.9","smokes",0
+67412,"Female",39,0,0,"Yes","Private","Rural",83.83,"30.3","never smoked",0
+33308,"Female",65,0,0,"No","Private","Urban",216.64,"43.3","formerly smoked",0
+61103,"Female",64,1,0,"Yes","Self-employed","Urban",190.92,"31.4","never smoked",0
+7282,"Male",44,0,0,"Yes","Private","Rural",81.84,"25.1","never smoked",0
+5319,"Male",48,0,0,"Yes","Private","Rural",98.24,"34.6","never smoked",0
+26605,"Female",39,0,0,"Yes","Private","Rural",102.51,"26.6","smokes",0
+65955,"Male",81,1,1,"No","Private","Rural",220.64,"30","never smoked",0
+48721,"Male",26,0,0,"No","Private","Urban",190.67,"20.2","never smoked",0
+71424,"Female",75,1,0,"Yes","Self-employed","Urban",55.96,"34.8","never smoked",0
+58761,"Male",52,0,0,"Yes","Private","Urban",87.51,"30.5","formerly smoked",0
+19814,"Female",43,0,0,"No","Private","Urban",71.77,"26.9","never smoked",0
+58577,"Female",38,0,0,"Yes","Govt_job","Rural",64.27,"27.3","never smoked",0
+15824,"Female",67,0,0,"Yes","Private","Rural",81.68,"30.4","never smoked",0
+68568,"Female",72,0,0,"Yes","Self-employed","Rural",57.28,"23.9","never smoked",0
+41153,"Female",32,0,0,"Yes","Private","Urban",100.01,"37.2","never smoked",0
+21036,"Female",47,0,0,"Yes","Private","Urban",131.43,"24.3","never smoked",0
+63668,"Male",22,0,0,"No","Private","Rural",85.57,"24.2","formerly smoked",0
+24272,"Male",63,0,0,"Yes","Govt_job","Rural",217.66,"28.7","formerly smoked",0
+3591,"Female",63,1,0,"Yes","Private","Rural",96.77,"20.5","never smoked",0
+58235,"Male",76,0,0,"Yes","Private","Urban",58.65,"25.6","smokes",0
+2903,"Female",35,0,0,"No","Private","Rural",123.83,"23.8","never smoked",0
+354,"Female",65,0,0,"Yes","Private","Urban",72.49,"28.9","smokes",0
+38649,"Female",23,0,0,"No","Private","Rural",79.33,"41.5","never smoked",0
+63729,"Female",19,0,0,"No","Private","Urban",65.79,"28.6","smokes",0
+72393,"Female",23,0,0,"Yes","Govt_job","Rural",84.93,"24.2","never smoked",0
+2005,"Male",78,0,1,"Yes","Self-employed","Urban",169.43,"23.5","formerly smoked",0
+45530,"Female",19,0,0,"No","Private","Urban",89.3,"22.1","never smoked",0
+53910,"Female",48,0,0,"Yes","Self-employed","Rural",132.08,"31.6","smokes",0
+28309,"Female",67,0,0,"Yes","Private","Urban",82.09,"14.1","never smoked",0
+52681,"Female",39,0,0,"Yes","Private","Urban",254.95,"35.5","smokes",0
+61787,"Male",54,0,0,"Yes","Self-employed","Urban",114.61,"40.1","formerly smoked",0
+36589,"Female",61,0,0,"Yes","Self-employed","Urban",180.8,"20.3","never smoked",0
+14399,"Female",41,0,0,"Yes","Private","Urban",92.14,"29.6","formerly smoked",0
+11184,"Female",82,0,0,"Yes","Self-employed","Rural",211.58,"36.9","never smoked",0
+22001,"Male",80,0,1,"Yes","Govt_job","Rural",181.23,"32.2","formerly smoked",0
+62715,"Male",82,0,1,"Yes","Private","Urban",57.56,"27.5","never smoked",0
+59464,"Female",18,0,0,"No","Private","Rural",135.19,"23.4","never smoked",0
+479,"Female",59,1,0,"Yes","Private","Rural",78.28,"31","formerly smoked",0
+31344,"Male",82,0,0,"Yes","Self-employed","Urban",214.51,"24","formerly smoked",0
+69668,"Female",33,0,0,"Yes","Self-employed","Rural",112.94,"43","never smoked",0
+10139,"Female",54,0,0,"Yes","Self-employed","Urban",92.39,"22.1","never smoked",0
+27479,"Male",63,0,0,"Yes","Self-employed","Rural",104.7,"21","formerly smoked",0
+65277,"Female",78,1,0,"No","Self-employed","Rural",198.12,"29.1","never smoked",0
+26742,"Female",68,0,0,"Yes","Govt_job","Urban",96.75,"28.4","formerly smoked",0
+61667,"Female",61,0,0,"Yes","Private","Rural",144.14,"29.8","never smoked",0
+62075,"Female",40,0,0,"Yes","Private","Urban",65.42,"17.4","formerly smoked",0
+28364,"Male",61,0,0,"Yes","Private","Urban",84.12,"25.1","formerly smoked",0
+67356,"Female",43,0,0,"Yes","Private","Urban",80.8,"46.1","never smoked",0
+15987,"Male",13,0,0,"No","children","Urban",92.65,"31.7","never smoked",0
+31166,"Female",36,0,0,"Yes","Govt_job","Rural",82.47,"33.1","smokes",0
+16420,"Female",45,0,0,"Yes","Private","Urban",108.03,"37.3","never smoked",0
+63043,"Female",27,0,0,"No","Private","Urban",61.8,"26.8","formerly smoked",0
+28102,"Female",25,0,0,"No","Private","Rural",66.3,"27.2","never smoked",0
+64029,"Male",55,1,0,"Yes","Private","Urban",168.06,"23.5","smokes",0
+42091,"Male",32,0,0,"Yes","Govt_job","Rural",83.01,"25.8","smokes",0
+32723,"Female",13,0,0,"No","children","Rural",102.27,"17.2","never smoked",0
+25099,"Male",41,0,0,"No","Govt_job","Rural",74.81,"39.7","smokes",0
+56875,"Female",46,0,0,"Yes","Govt_job","Urban",162.24,"24.3","smokes",0
+51257,"Male",32,0,0,"No","Private","Rural",72.1,"23.2","never smoked",0
+8332,"Female",50,0,0,"Yes","Private","Rural",206.25,"53.4","formerly smoked",0
+51651,"Male",46,0,0,"Yes","Private","Rural",114.46,"24.7","formerly smoked",0
+62610,"Male",32,0,0,"Yes","Private","Urban",119.9,"30.9","smokes",0
+4683,"Male",23,0,0,"No","Private","Urban",115.98,"22.3","never smoked",0
+3718,"Female",46,0,0,"Yes","Govt_job","Urban",111.1,"23.3","smokes",0
+48405,"Male",80,0,1,"Yes","Private","Urban",68.53,"24.2","smokes",1
+20439,"Male",82,0,1,"Yes","Govt_job","Rural",103.68,"25","never smoked",1
+19742,"Female",37,0,0,"Yes","Private","Urban",106.35,"29.7","never smoked",0
+5157,"Male",79,1,0,"Yes","Self-employed","Urban",83.07,"26.5","smokes",0
+48303,"Male",39,0,0,"Yes","Private","Rural",71.3,"34.7","never smoked",0
+5236,"Female",49,0,0,"Yes","Private","Rural",73.48,"33","never smoked",0
+51159,"Female",32,0,0,"No","Govt_job","Urban",68.98,"23.4","formerly smoked",0
+15791,"Male",77,0,0,"Yes","Private","Urban",193.83,"26.5","never smoked",0
+40998,"Female",81,0,0,"Yes","Self-employed","Rural",58.01,"27.8","never smoked",0
+35332,"Female",63,0,0,"Yes","Private","Rural",93.24,"28.8","never smoked",0
+10138,"Female",41,0,0,"Yes","Private","Urban",74.85,"24.8","formerly smoked",0
+72398,"Female",73,1,0,"Yes","Private","Urban",110.38,"26.3","never smoked",0
+23238,"Male",53,0,1,"Yes","Private","Rural",95.23,"35.2","smokes",0
+17351,"Female",59,0,0,"Yes","Private","Rural",237.15,"27.7","never smoked",0
+69487,"Female",79,0,0,"Yes","Self-employed","Urban",57.77,"24.1","formerly smoked",0
+31642,"Female",66,0,0,"Yes","Self-employed","Rural",85.9,"34.6","never smoked",0
+38980,"Male",61,0,0,"Yes","Govt_job","Urban",107.33,"26.4","formerly smoked",0
+53010,"Male",82,0,0,"Yes","Self-employed","Rural",56.75,"21","never smoked",0
+69553,"Female",29,0,0,"Yes","Private","Rural",60.74,"20","never smoked",0
+25287,"Male",54,0,0,"Yes","Private","Urban",92.95,"41","never smoked",0
+66893,"Male",49,1,0,"Yes","Govt_job","Urban",139.43,"40.2","formerly smoked",0
+58350,"Female",26,0,0,"No","Govt_job","Rural",89.37,"20.2","never smoked",0
+62817,"Male",60,0,0,"Yes","Private","Urban",129.16,"33.6","smokes",0
+64652,"Female",44,0,0,"Yes","Private","Rural",56.85,"24.4","never smoked",0
+41148,"Male",71,0,1,"Yes","Private","Urban",70.71,"30.1","never smoked",0
+52619,"Female",65,0,0,"Yes","Private","Rural",205.78,"41.7","never smoked",0
+35210,"Female",48,0,0,"Yes","Private","Urban",112.96,"25.4","never smoked",0
+51746,"Female",37,0,0,"Yes","Govt_job","Rural",67.07,"27.4","never smoked",0
+11605,"Female",26,0,0,"No","Private","Rural",108.2,"26.2","never smoked",0
+20890,"Female",61,0,0,"Yes","Private","Rural",79.89,"24.5","smokes",0
+68302,"Female",40,0,0,"Yes","Private","Urban",65.77,"31.2","never smoked",0
+35315,"Male",65,0,0,"Yes","Self-employed","Urban",95.88,"28.5","never smoked",0
+13049,"Female",50,0,0,"Yes","Private","Rural",114.05,"32.5","never smoked",0
+58154,"Female",20,0,0,"No","Private","Urban",66.55,"26.9","smokes",0
+46474,"Male",26,0,0,"Yes","Private","Rural",100.09,"27.4","never smoked",0
+12906,"Female",55,0,0,"Yes","Self-employed","Rural",95.32,"26.8","never smoked",0
+28227,"Female",27,0,0,"Yes","Private","Urban",71.5,"40.3","smokes",0
+42647,"Female",59,0,0,"Yes","Govt_job","Urban",101.19,"29.9","formerly smoked",0
+18605,"Female",17,0,0,"No","Never_worked","Urban",78.08,"44.9","never smoked",0
+35626,"Male",81,0,0,"Yes","Self-employed","Urban",99.33,"33.7","never smoked",1
+69379,"Female",64,1,0,"Yes","Self-employed","Urban",93.78,"24.4","never smoked",0
+17639,"Male",44,0,0,"Yes","Govt_job","Rural",87.49,"26.6","never smoked",0
+8964,"Female",34,0,0,"No","Private","Rural",94.37,"38.1","never smoked",0
+18887,"Male",52,0,0,"Yes","Private","Rural",107.45,"42.1","formerly smoked",0
+50845,"Female",32,0,0,"Yes","Govt_job","Urban",101.13,"43.9","formerly smoked",0
+28711,"Female",26,0,0,"No","Private","Urban",89.28,"21.7","smokes",0
+52593,"Male",78,0,1,"Yes","Private","Urban",145.03,"26.8","formerly smoked",0
+19101,"Female",16,0,0,"No","Private","Urban",87.98,"22.4","never smoked",0
+52792,"Female",39,0,0,"Yes","Private","Urban",62.02,"23.7","smokes",0
+52340,"Male",55,0,0,"Yes","Private","Urban",67.02,"41.1","smokes",0
+46284,"Male",53,1,0,"Yes","Self-employed","Urban",227.51,"34.7","formerly smoked",0
+69750,"Female",77,0,0,"Yes","Self-employed","Urban",151.23,"24.9","never smoked",0
+65256,"Female",57,0,0,"Yes","Self-employed","Rural",128.28,"34.2","never smoked",0
+782,"Female",32,0,0,"No","Private","Urban",79.34,"26.5","formerly smoked",0
+55361,"Female",36,0,0,"Yes","Self-employed","Urban",202.06,"24.4","never smoked",0
+42108,"Female",24,0,0,"No","Govt_job","Rural",100.97,"27.9","never smoked",0
+54294,"Female",65,0,0,"Yes","Govt_job","Urban",79.39,"31.5","formerly smoked",0
+8544,"Female",24,0,0,"No","Self-employed","Rural",115.03,"23.4","never smoked",0
+48614,"Male",59,0,0,"Yes","Govt_job","Urban",99.69,"28.8","smokes",0
+63804,"Female",27,0,0,"No","Private","Rural",55.93,"20.3","smokes",0
+39060,"Female",41,0,0,"Yes","Private","Urban",71.06,"23.4","never smoked",0
+16245,"Male",51,1,0,"Yes","Self-employed","Rural",211.83,"56.6","never smoked",0
+25088,"Female",40,0,0,"No","Private","Rural",217,"29.4","formerly smoked",0
+71585,"Female",66,0,0,"Yes","Govt_job","Urban",87.24,"22.5","formerly smoked",0
+59737,"Female",65,0,0,"Yes","Private","Urban",74.01,"28.7","smokes",0
+55847,"Male",19,0,0,"No","Private","Rural",106.7,"24","never smoked",0
+7871,"Female",40,0,0,"Yes","Private","Urban",86.78,"35.5","smokes",0
+71966,"Female",18,0,0,"No","Never_worked","Urban",81.73,"21.6","never smoked",0
+41250,"Female",54,0,0,"Yes","Private","Rural",97.61,"32.1","smokes",0
+11651,"Female",25,0,0,"Yes","Private","Rural",81.21,"37.9","never smoked",0
+10826,"Female",39,0,0,"Yes","Self-employed","Urban",82.85,"22.9","smokes",0
+54946,"Female",26,0,0,"No","Private","Urban",168.15,"22.9","never smoked",0
+12600,"Female",42,0,0,"Yes","Self-employed","Rural",79.99,"26.3","never smoked",0
+14924,"Male",48,0,0,"Yes","Private","Urban",72.36,"34.7","smokes",0
+27922,"Male",32,0,0,"Yes","Private","Rural",102.13,"32.3","never smoked",0
+49341,"Female",78,0,0,"Yes","Private","Rural",154.75,"17.6","never smoked",0
+29694,"Female",68,0,0,"Yes","Private","Rural",95.36,"21.5","smokes",0
+70268,"Male",82,0,0,"Yes","Private","Urban",226.84,"25.3","formerly smoked",0
+50410,"Female",78,0,0,"No","Govt_job","Rural",76.64,"34.6","never smoked",0
+29789,"Female",46,0,0,"Yes","Private","Rural",116.84,"28.2","never smoked",0
+66922,"Male",61,1,1,"No","Private","Rural",148.24,"32.2","formerly smoked",0
+63362,"Female",37,0,0,"Yes","Private","Urban",60.61,"35.7","formerly smoked",0
+53004,"Female",54,0,0,"Yes","Govt_job","Rural",228.26,"46","never smoked",0
+64752,"Female",29,0,0,"No","Private","Urban",72.02,"34","formerly smoked",0
+23459,"Female",47,0,0,"Yes","Private","Rural",75.43,"36.4","smokes",0
+4807,"Male",34,0,0,"No","Private","Urban",108.47,"30.4","smokes",0
+38541,"Male",55,0,0,"Yes","Private","Urban",84.44,"30.5","formerly smoked",0
+53399,"Male",74,0,0,"Yes","Private","Rural",65.28,"28.2","never smoked",0
+59894,"Female",58,0,0,"Yes","Govt_job","Rural",109.56,"23.1","never smoked",0
+28378,"Male",61,1,1,"Yes","Private","Urban",112.24,"37.4","smokes",1
+30290,"Female",40,0,0,"Yes","Private","Urban",70.13,"23.6","never smoked",0
+12662,"Male",74,1,0,"Yes","Self-employed","Urban",112.54,"27.7","formerly smoked",0
+30927,"Male",24,0,0,"No","Private","Rural",93.76,"24","formerly smoked",0
+52530,"Male",55,0,0,"Yes","Govt_job","Urban",231.15,"22.3","never smoked",0
+16605,"Male",57,0,0,"Yes","Private","Urban",106.24,"32.3","never smoked",0
+7964,"Male",24,0,0,"No","Private","Urban",97.47,"24.2","formerly smoked",0
+4861,"Female",30,0,0,"Yes","Private","Urban",70.67,"24.6","smokes",0
+36162,"Male",39,1,0,"Yes","Private","Rural",111.24,"38.8","never smoked",0
+52306,"Male",57,0,0,"Yes","Self-employed","Urban",67.97,"27.9","never smoked",0
+30989,"Female",65,0,0,"Yes","Self-employed","Rural",220.52,"37.2","smokes",0
+52051,"Female",75,0,0,"Yes","Self-employed","Urban",60.6,"40.4","smokes",0
+45945,"Male",46,0,1,"Yes","Private","Urban",178.76,"24.1","never smoked",0
+954,"Male",18,0,0,"No","Private","Rural",103.94,"23.3","never smoked",0
+1329,"Female",43,0,0,"No","Govt_job","Rural",101.35,"32.2","never smoked",0
+36545,"Male",43,0,0,"Yes","Private","Rural",62.99,"27","formerly smoked",0
+63236,"Male",65,0,0,"Yes","Private","Urban",96.81,"41.2","smokes",0
+5723,"Female",50,0,0,"Yes","Private","Urban",91.08,"26.4","never smoked",0
+60276,"Male",78,1,1,"Yes","Self-employed","Rural",106.41,"27.3","never smoked",0
+19032,"Female",15,0,0,"No","Private","Rural",79.2,"22.4","never smoked",0
+25625,"Female",45,0,0,"No","Private","Rural",103.94,"32.5","smokes",0
+28303,"Female",52,0,0,"Yes","Self-employed","Rural",205,"30.1","never smoked",0
+71719,"Male",66,0,0,"Yes","Govt_job","Rural",57.17,"25.5","formerly smoked",0
+3477,"Female",26,0,0,"No","Private","Rural",78.16,"20.1","never smoked",0
+64006,"Female",15,0,0,"No","Private","Urban",121.6,"22.8","never smoked",0
+72824,"Male",46,0,0,"Yes","Private","Rural",59.05,"28.3","formerly smoked",0
+39129,"Male",53,0,0,"Yes","Govt_job","Rural",86,"24.1","never smoked",0
+58610,"Female",55,0,0,"Yes","Private","Urban",59.36,"34.1","smokes",0
+40837,"Male",52,0,0,"Yes","Govt_job","Urban",120.27,"25","never smoked",0
+40842,"Female",29,0,0,"Yes","Private","Rural",108.14,"25.1","formerly smoked",0
+64670,"Female",55,0,0,"Yes","Govt_job","Urban",71.79,"43","formerly smoked",0
+62738,"Male",71,0,1,"Yes","Private","Rural",70.38,"25","smokes",0
+41861,"Female",23,0,0,"No","Private","Rural",63.73,"25.6","smokes",0
+50541,"Male",47,0,0,"Yes","Govt_job","Urban",73.48,"34.9","smokes",0
+54782,"Female",30,0,0,"No","Self-employed","Rural",56.07,"31.3","never smoked",0
+69510,"Male",39,0,0,"Yes","Private","Rural",121.32,"26.8","never smoked",0
+32437,"Female",54,0,0,"Yes","Self-employed","Urban",107.47,"29.3","formerly smoked",0
+63337,"Female",42,0,0,"Yes","Private","Rural",69.99,"46","smokes",0
+5068,"Female",28,0,0,"No","Private","Urban",76.81,"28.3","smokes",0
+50983,"Male",35,0,0,"Yes","Private","Rural",90.51,"26.7","never smoked",0
+11792,"Female",70,0,0,"Yes","Private","Urban",90.49,"28.9","formerly smoked",0
+24854,"Female",24,0,0,"No","Self-employed","Urban",79.42,"21.4","never smoked",0
+18876,"Female",28,0,0,"Yes","Private","Urban",69.5,"24.5","never smoked",0
+20625,"Male",51,1,0,"Yes","Private","Urban",76.1,"32.1","smokes",0
+69847,"Female",30,0,0,"Yes","Self-employed","Urban",76.7,"24.2","never smoked",0
+61895,"Female",65,0,0,"Yes","Private","Rural",220.47,"48.7","never smoked",0
+29158,"Female",55,0,0,"Yes","Private","Rural",111.19,"39.7","formerly smoked",0
+62454,"Female",12,0,0,"No","children","Urban",63.98,"21.2","formerly smoked",0
+56312,"Male",47,0,0,"No","Private","Rural",111.15,"23.8","never smoked",0
+62767,"Female",24,0,0,"Yes","Private","Urban",89.68,"38.7","never smoked",0
+44447,"Male",49,0,0,"Yes","Private","Urban",58.19,"29.6","smokes",0
+49555,"Female",34,0,0,"Yes","Govt_job","Urban",90.55,"30","never smoked",0
+47924,"Male",24,0,0,"No","Private","Urban",59.28,"43.2","never smoked",0
+14222,"Female",25,0,0,"No","Private","Urban",78.59,"37.2","never smoked",0
+66592,"Male",16,0,0,"No","Private","Rural",122.46,"18.7","never smoked",0
+34700,"Female",56,1,0,"No","Self-employed","Urban",87.5,"20.2","formerly smoked",0
+11111,"Female",66,1,0,"Yes","Govt_job","Urban",205.01,"52.7","formerly smoked",0
+54296,"Male",58,0,0,"Yes","Self-employed","Rural",68.84,"43.7","formerly smoked",0
+10636,"Female",74,0,0,"Yes","Self-employed","Rural",82.27,"23.6","formerly smoked",0
+64864,"Male",63,1,0,"Yes","Private","Rural",60.17,"23.5","smokes",0
+22964,"Male",44,0,0,"Yes","Govt_job","Rural",69.23,"28.7","smokes",0
+44992,"Male",14,0,0,"No","Private","Urban",126.57,"25.9","formerly smoked",0
+13365,"Male",50,0,0,"Yes","Private","Rural",77.65,"24.4","smokes",0
+38737,"Male",77,0,0,"Yes","Self-employed","Urban",60.77,"23","smokes",0
+33478,"Female",56,0,0,"No","Private","Rural",74.35,"26.6","smokes",0
+13736,"Male",24,0,0,"Yes","Private","Urban",94.66,"32.1","formerly smoked",0
+72512,"Female",48,0,0,"Yes","Self-employed","Urban",90.38,"38","smokes",0
+38605,"Female",36,0,0,"Yes","Private","Rural",101.93,"22.8","smokes",0
+36858,"Female",40,0,0,"Yes","Private","Rural",72.76,"24","formerly smoked",0
+23893,"Male",24,0,0,"Yes","Private","Urban",103.45,"25.1","smokes",0
+53401,"Male",71,1,1,"No","Govt_job","Rural",216.94,"30.9","never smoked",1
+28910,"Female",51,0,0,"Yes","Private","Urban",82.59,"26.2","formerly smoked",0
+47947,"Female",64,0,0,"Yes","Self-employed","Rural",114.47,"31.6","smokes",0
+21209,"Female",10,0,0,"No","children","Rural",84.86,"28.6","never smoked",0
+30303,"Male",33,0,0,"No","Private","Rural",88.5,"32.6","formerly smoked",0
+64371,"Female",49,0,0,"Yes","Self-employed","Rural",68.44,"23","smokes",0
+20460,"Female",62,0,0,"Yes","Private","Urban",114.41,"32.5","never smoked",0
+42203,"Male",59,0,0,"Yes","Private","Urban",117.92,"29.4","smokes",0
+49620,"Male",75,0,0,"Yes","Private","Rural",75.47,"24.5","formerly smoked",0
+52882,"Female",60,0,0,"Yes","Govt_job","Rural",111.79,"23.6","smokes",0
+27853,"Female",34,0,0,"Yes","Self-employed","Rural",88.68,"23.9","never smoked",0
+34416,"Male",23,0,0,"No","Private","Urban",74.34,"23.5","never smoked",0
+2029,"Female",40,0,0,"Yes","Private","Rural",92.35,"38","never smoked",0
+55775,"Female",59,0,0,"Yes","Private","Rural",226.11,"32.8","formerly smoked",0
+25107,"Female",47,0,0,"Yes","Private","Urban",65.04,"30.9","never smoked",0
+70122,"Female",29,0,0,"Yes","Private","Rural",72.52,"33.9","never smoked",0
+10056,"Female",37,0,0,"Yes","Private","Urban",98.02,"20.4","never smoked",0
+29552,"Female",55,1,1,"Yes","Private","Urban",210.4,"40","smokes",1
+24920,"Female",35,0,0,"Yes","Govt_job","Rural",97.6,"44.8","smokes",0
+66310,"Male",54,0,0,"Yes","Self-employed","Rural",138.47,"31.5","never smoked",0
+15689,"Male",42,0,0,"Yes","Govt_job","Urban",68.19,"31","never smoked",0
+54997,"Female",53,0,0,"Yes","Self-employed","Rural",72.49,"38.5","never smoked",0
+51883,"Female",52,0,0,"Yes","Govt_job","Rural",69.11,"35.2","never smoked",0
+45535,"Male",68,0,0,"Yes","Private","Rural",233.94,"42.4","never smoked",1
+49014,"Female",76,0,0,"Yes","Govt_job","Urban",204.05,"23.5","never smoked",0
+40220,"Male",32,0,0,"No","Private","Rural",100.65,"26.2","formerly smoked",0
+31697,"Female",34,0,0,"Yes","Private","Urban",76.42,"27.6","smokes",0
+15266,"Female",32,0,0,"Yes","Private","Rural",77.67,"32.3","smokes",0
+42996,"Female",36,0,0,"No","Govt_job","Rural",126.82,"23.3","never smoked",0
+33102,"Male",10,0,0,"No","children","Rural",69.2,"23.5","formerly smoked",0
+38348,"Female",66,0,0,"Yes","Private","Urban",80.1,"32","never smoked",0
+6879,"Female",44,0,0,"No","Govt_job","Urban",215.9,"41.8","smokes",0
+62238,"Female",42,0,0,"No","Private","Urban",80.24,"28.9","never smoked",0
+35866,"Female",62,0,0,"Yes","Private","Rural",91.65,"30.5","never smoked",0
+28247,"Male",82,0,0,"No","Self-employed","Urban",101.57,"24.3","smokes",0
+28647,"Female",35,0,0,"Yes","Private","Urban",81.33,"28.9","never smoked",0
+1112,"Female",14,0,0,"No","Private","Urban",83.42,"28.7","never smoked",0
+59335,"Male",38,0,0,"Yes","Govt_job","Rural",69.88,"27.9","smokes",0
+43657,"Male",64,0,0,"Yes","Govt_job","Rural",187.87,"32.3","never smoked",0
+8646,"Female",54,0,0,"Yes","Private","Rural",97.47,"26.7","never smoked",0
+22108,"Female",18,0,0,"No","Private","Rural",73.29,"28.1","smokes",0
+8595,"Male",25,0,0,"Yes","Private","Rural",95.59,"25.1","never smoked",0
+8598,"Female",35,0,0,"Yes","Govt_job","Urban",82.39,"33.2","never smoked",0
+37608,"Female",38,0,0,"No","Private","Urban",218.6,"47.9","formerly smoked",0
+66786,"Female",53,0,0,"Yes","Private","Rural",94.14,"27.7","smokes",0
+61300,"Male",20,0,0,"No","Private","Urban",55.25,"20.4","never smoked",0
+32604,"Male",49,0,0,"Yes","Self-employed","Rural",215.81,"58.1","never smoked",0
+31766,"Male",18,0,0,"No","Private","Rural",102.58,"30.8","never smoked",0
+70297,"Female",36,0,0,"Yes","Private","Urban",91.34,"29.9","never smoked",0
+16109,"Male",63,0,0,"Yes","Private","Urban",105.52,"37.9","formerly smoked",0
+12677,"Female",60,0,0,"Yes","Private","Rural",99,"26.1","never smoked",0
+13129,"Female",55,0,0,"Yes","Self-employed","Rural",76.2,"27.9","never smoked",0
+14019,"Female",58,0,0,"Yes","Private","Urban",96.21,"23.5","never smoked",0
+50455,"Female",67,0,0,"Yes","Self-employed","Urban",110.41,"28.7","never smoked",0
+25138,"Female",78,1,0,"Yes","Private","Rural",91.63,"33.5","smokes",0
+69010,"Male",78,0,0,"Yes","Private","Rural",83.2,"21.2","formerly smoked",0
+4833,"Female",12,0,0,"No","children","Rural",207.45,"25.4","smokes",0
+10995,"Male",76,1,0,"Yes","Private","Rural",267.6,"30.5","never smoked",0
+29172,"Female",68,0,0,"Yes","Self-employed","Rural",80.63,"20.2","never smoked",0
+68074,"Male",54,0,0,"Yes","Private","Rural",100.47,"50.2","formerly smoked",0
+12512,"Female",52,1,0,"Yes","Private","Rural",213.54,"32","never smoked",0
+45754,"Female",20,0,0,"No","Private","Urban",75.94,"28.3","never smoked",0
+14677,"Female",33,0,0,"Yes","Self-employed","Rural",99.3,"21.4","never smoked",0
+71151,"Male",56,0,0,"Yes","Private","Urban",82.64,"31","never smoked",0
+69502,"Female",52,1,0,"Yes","Private","Urban",155.86,"27.2","smokes",0
+31161,"Female",26,0,0,"No","Govt_job","Urban",88.88,"36.3","never smoked",0
+67055,"Female",31,0,0,"Yes","Private","Rural",77.01,"31.3","formerly smoked",0
+20426,"Female",78,1,0,"No","Private","Urban",203.87,"45.7","never smoked",1
+6239,"Female",14,0,0,"No","Private","Rural",233.71,"22.9","never smoked",0
+8154,"Male",57,1,0,"Yes","Govt_job","Urban",78.92,"27.7","formerly smoked",1
+72284,"Female",53,0,0,"Yes","Private","Rural",60.77,"28.7","smokes",0
+44647,"Male",62,0,0,"No","Govt_job","Rural",75.07,"30.5","never smoked",0
+57668,"Male",49,0,0,"Yes","Govt_job","Urban",72.2,"30.3","formerly smoked",0
+38493,"Male",60,1,1,"Yes","Private","Urban",201.01,"28","never smoked",0
+36618,"Male",75,0,1,"Yes","Self-employed","Urban",207.64,"30.5","formerly smoked",0
+26172,"Male",31,0,0,"Yes","Private","Rural",100.39,"37","never smoked",0
+23026,"Female",48,0,0,"Yes","Private","Rural",99.07,"22.1","never smoked",0
+60602,"Female",49,0,0,"Yes","Govt_job","Urban",68.68,"28.8","never smoked",0
+34400,"Female",77,1,0,"Yes","Self-employed","Rural",176.71,"33.2","never smoked",0
+12487,"Male",65,0,0,"Yes","Private","Urban",81.06,"30.1","smokes",0
+24567,"Male",51,0,0,"Yes","Self-employed","Urban",69.18,"35.7","smokes",0
+60255,"Female",34,0,0,"No","Private","Rural",103.43,"43.6","smokes",0
+68750,"Male",57,0,0,"Yes","Private","Rural",89.81,"35.6","never smoked",0
+30184,"Male",82,0,0,"Yes","Private","Rural",86.62,"29.5","formerly smoked",1
+3553,"Female",43,0,0,"Yes","Govt_job","Urban",104.55,"23.9","smokes",0
+30214,"Male",23,0,0,"No","Private","Rural",83.86,"19.5","never smoked",0
+37832,"Female",14,0,0,"No","children","Rural",129.53,"21.3","never smoked",0
+66159,"Female",80,0,1,"Yes","Self-employed","Rural",66.72,"21.7","formerly smoked",1
+11105,"Male",80,0,0,"Yes","Private","Urban",78.78,"24","formerly smoked",0
+23410,"Female",72,0,0,"Yes","Private","Rural",97.92,"26.9","smokes",1
+45864,"Female",36,0,0,"No","Private","Rural",55.58,"30","never smoked",0
+17885,"Male",57,0,0,"No","Govt_job","Rural",90.31,"38.1","smokes",0
+45277,"Female",74,0,0,"Yes","Private","Rural",231.61,"34.6","formerly smoked",1
+15566,"Male",39,0,0,"Yes","Private","Rural",91.85,"24.7","smokes",0
+44978,"Male",39,0,0,"Yes","Govt_job","Rural",72.49,"44.9","formerly smoked",0
+72011,"Male",51,0,0,"No","Self-employed","Rural",87.15,"26.4","formerly smoked",0
+41565,"Female",33,0,0,"No","Private","Urban",121.19,"22.1","never smoked",0
+43172,"Female",60,0,0,"Yes","Private","Urban",57.89,"30.9","formerly smoked",0
+42626,"Female",76,1,0,"Yes","Govt_job","Rural",63.28,"28.2","never smoked",0
+26528,"Female",17,0,0,"No","Private","Rural",88.65,"30.3","never smoked",0
+22860,"Female",65,0,0,"Yes","Govt_job","Rural",84.66,"22.4","never smoked",0
+8341,"Male",10,0,0,"No","children","Rural",84.02,"18.7","never smoked",0
+16738,"Female",42,0,0,"Yes","Private","Rural",96.86,"29.3","never smoked",0
+57494,"Female",82,1,0,"Yes","Self-employed","Urban",107.21,"27","formerly smoked",0
+21826,"Male",73,0,0,"Yes","Self-employed","Rural",101.25,"29.4","formerly smoked",0
+35222,"Female",75,0,0,"Yes","Private","Urban",86.4,"42.6","never smoked",0
+27480,"Male",19,0,0,"No","Private","Rural",86.19,"26.2","never smoked",0
+15553,"Female",45,0,0,"Yes","Private","Rural",89.21,"21.6","formerly smoked",0
+34612,"Male",55,0,0,"Yes","Govt_job","Rural",65.12,"30","never smoked",0
+10710,"Female",56,0,0,"Yes","Private","Urban",185.17,"40.4","formerly smoked",1
+33657,"Female",64,0,0,"Yes","Private","Urban",95.87,"19.3","formerly smoked",0
+63973,"Female",77,0,0,"Yes","Govt_job","Rural",190.32,"31.4","never smoked",1
+15383,"Female",29,0,0,"Yes","Private","Urban",118.44,"24.8","never smoked",0
+8655,"Female",51,0,1,"Yes","Self-employed","Urban",100.96,"33.4","never smoked",0
+43590,"Female",26,0,0,"Yes","Private","Rural",63.94,"17.6","never smoked",0
+39935,"Female",34,0,0,"Yes","Private","Rural",174.37,"23","never smoked",0
+59718,"Female",33,0,0,"Yes","Private","Rural",114.16,"43.3","never smoked",0
+10504,"Male",55,0,0,"Yes","Govt_job","Rural",97.4,"44.6","formerly smoked",0
+47811,"Female",72,0,0,"Yes","Self-employed","Urban",239.82,"35.8","never smoked",0
+56855,"Male",46,0,0,"Yes","Private","Urban",137.77,"29.3","never smoked",0
+65508,"Male",80,0,0,"Yes","Govt_job","Urban",148.72,"28.7","never smoked",0
+63409,"Female",49,0,0,"Yes","Private","Urban",63.71,"33.8","smokes",0
+39120,"Female",82,0,0,"No","Self-employed","Urban",82.21,"26","never smoked",0
+63303,"Male",28,0,0,"No","Private","Urban",75.5,"27","smokes",0
+28291,"Female",79,0,1,"Yes","Private","Urban",226.98,"29.8","never smoked",1
+52216,"Female",35,0,0,"Yes","Private","Urban",87.72,"21.3","never smoked",0
+63938,"Female",49,0,0,"Yes","Self-employed","Urban",149.13,"42.9","smokes",0
+48246,"Male",59,0,0,"Yes","Private","Urban",60.35,"25.9","formerly smoked",0
+27721,"Male",32,0,0,"Yes","Private","Rural",83.13,"32","smokes",0
+37290,"Male",80,0,0,"Yes","Self-employed","Rural",236.84,"26.8","never smoked",0
+28527,"Male",71,0,0,"No","Private","Urban",86.96,"32.6","never smoked",0
+61742,"Male",26,0,0,"No","Private","Urban",103.61,"31.4","never smoked",0
+50222,"Female",22,0,0,"No","Private","Rural",74.99,"27.9","smokes",0
+25325,"Female",42,0,0,"Yes","Private","Rural",82.24,"23.8","formerly smoked",0
+47414,"Female",71,1,0,"Yes","Private","Urban",116.76,"32.9","formerly smoked",0
+11392,"Male",75,0,0,"Yes","Private","Rural",70.73,"26.7","smokes",0
+56543,"Female",70,0,0,"Yes","Private","Rural",69.04,"35.9","formerly smoked",0
+3390,"Female",36,0,0,"Yes","Private","Rural",100.33,"23.2","never smoked",0
+15219,"Female",27,0,0,"No","Private","Rural",78.05,"22.3","never smoked",0
+36704,"Female",29,0,0,"Yes","Self-employed","Rural",74.33,"29.9","smokes",0
+56090,"Female",65,0,0,"Yes","Self-employed","Rural",167.31,"27.1","never smoked",0
+30432,"Male",65,1,0,"Yes","Self-employed","Urban",113.86,"36.4","never smoked",0
+55232,"Female",38,0,0,"Yes","Private","Rural",79.83,"27.9","smokes",0
+10434,"Female",69,0,0,"No","Private","Urban",94.39,"22.8","never smoked",1
+57772,"Female",75,0,0,"Yes","Govt_job","Rural",56.23,"25.3","never smoked",0
+25718,"Female",28,0,0,"Yes","Private","Urban",100.8,"39.3","formerly smoked",0
+60586,"Female",68,0,0,"Yes","Private","Rural",85.29,"27.1","formerly smoked",0
+9648,"Female",71,0,1,"Yes","Private","Urban",170.95,"35.2","never smoked",0
+5934,"Female",51,0,0,"Yes","Private","Urban",123,"31.7","never smoked",0
+43454,"Female",78,0,0,"No","Self-employed","Urban",137.74,"34.9","formerly smoked",0
+46785,"Female",29,0,0,"Yes","Private","Urban",63.69,"28.1","smokes",0
+69647,"Male",30,0,0,"No","Private","Urban",63.42,"28","never smoked",0
+3595,"Male",32,0,0,"Yes","Private","Urban",97.95,"40.2","smokes",0
+10243,"Female",60,0,0,"Yes","Govt_job","Urban",73.04,"25.3","never smoked",0
+69284,"Female",81,1,0,"Yes","Self-employed","Urban",174.54,"26.4","never smoked",0
+62395,"Male",33,0,0,"Yes","Private","Urban",78.43,"43.7","smokes",0
+15351,"Male",37,0,0,"Yes","Private","Rural",91.68,"32.4","formerly smoked",0
+27954,"Female",26,0,0,"No","Private","Urban",114.18,"23.3","never smoked",0
+5111,"Female",54,1,0,"Yes","Govt_job","Urban",180.93,"27.7","never smoked",1
+57270,"Female",57,0,0,"Yes","Private","Rural",189.44,"35.8","never smoked",0
+45751,"Male",73,1,0,"Yes","Self-employed","Rural",202.57,"37.4","never smoked",0
+42999,"Female",68,0,0,"Yes","Private","Urban",109.23,"31.3","never smoked",0
+16433,"Female",36,0,0,"Yes","Private","Rural",107.99,"25.5","never smoked",0
+49023,"Male",61,1,0,"Yes","Self-employed","Rural",102.54,"40.5","never smoked",0
+20098,"Female",31,0,0,"Yes","Self-employed","Rural",108.64,"43.3","never smoked",0
+46373,"Female",57,0,0,"Yes","Private","Rural",169.97,"25.8","never smoked",0
+31415,"Female",54,0,0,"Yes","Private","Urban",207.79,"38.6","never smoked",0
+46218,"Female",51,0,0,"Yes","Self-employed","Urban",111.15,"34.1","smokes",0
+47348,"Female",61,0,0,"Yes","Private","Urban",129.31,"30.7","formerly smoked",0
+60358,"Female",51,0,0,"Yes","Private","Urban",102.11,"23.1","never smoked",0
+53515,"Male",61,0,0,"Yes","Private","Rural",214.05,"29.4","formerly smoked",0
+69972,"Female",55,0,0,"Yes","Private","Rural",56.11,"32.4","formerly smoked",0
+29804,"Male",24,1,0,"Yes","Private","Rural",80.63,"28.2","smokes",0
+59642,"Female",45,0,0,"Yes","Private","Urban",107.29,"29.6","never smoked",0
+64931,"Male",37,0,0,"Yes","Private","Rural",131.05,"27.2","never smoked",0
+63665,"Female",31,0,0,"Yes","Private","Urban",60.06,"25.5","smokes",0
+32563,"Male",55,0,0,"Yes","Govt_job","Urban",92.59,"36.6","never smoked",0
+41673,"Female",45,0,0,"Yes","Private","Rural",80.93,"23.1","never smoked",0
+44375,"Female",57,1,0,"Yes","Self-employed","Rural",63.72,"35.8","smokes",0
+57569,"Male",48,0,0,"Yes","Private","Rural",106.74,"33.7","formerly smoked",0
+26028,"Male",51,0,0,"Yes","Private","Urban",98.41,"32.1","never smoked",0
+62861,"Female",78,0,0,"Yes","Private","Urban",67.29,"24.6","never smoked",1
+8951,"Female",77,1,0,"Yes","Self-employed","Urban",71.7,"32.8","never smoked",0
+56735,"Female",78,0,0,"Yes","Self-employed","Rural",115.43,"27.8","never smoked",0
+31421,"Male",73,0,1,"Yes","Govt_job","Rural",219.73,"28.6","never smoked",1
+19735,"Female",59,0,0,"Yes","Private","Rural",79.18,"52.8","formerly smoked",0
+11743,"Female",32,0,0,"Yes","Private","Urban",91.34,"25.5","formerly smoked",0
+1737,"Female",16,0,0,"No","Private","Rural",86.53,"42.2","never smoked",0
+53144,"Female",52,0,1,"Yes","Private","Urban",72.79,"54.7","never smoked",0
+38131,"Female",59,0,0,"Yes","Self-employed","Rural",55.46,"20.9","never smoked",0
+63401,"Female",71,0,0,"Yes","Self-employed","Rural",249.29,"30.3","smokes",0
+28484,"Female",78,0,0,"Yes","Self-employed","Rural",109.47,"30.8","never smoked",1
+11544,"Female",34,0,0,"Yes","Private","Urban",71.37,"32.9","never smoked",0
+69643,"Male",81,0,0,"Yes","Private","Rural",59.93,"28.9","formerly smoked",0
+12807,"Female",63,1,0,"Yes","Private","Urban",81.54,"24.2","never smoked",0
+36857,"Male",77,0,0,"Yes","Self-employed","Rural",162.14,"32.6","formerly smoked",1
+68692,"Male",61,1,0,"Yes","Private","Urban",66.46,"31.5","formerly smoked",0
+46691,"Male",16,0,0,"No","children","Urban",140.1,"38.7","never smoked",0
+7411,"Male",82,0,0,"Yes","Private","Urban",214.42,"33.9","formerly smoked",0
+15255,"Female",16,0,0,"No","Private","Rural",94.03,"25.7","never smoked",0
+70267,"Male",65,0,0,"Yes","Private","Rural",198.84,"33.2","formerly smoked",0
+1772,"Female",64,0,0,"Yes","Govt_job","Urban",77.68,"31.4","never smoked",0
+47521,"Female",55,1,0,"Yes","Govt_job","Urban",186.4,"28","never smoked",0
+69959,"Female",80,1,0,"No","Private","Urban",66.03,"35.4","never smoked",1
+42040,"Female",48,0,0,"Yes","Govt_job","Urban",128.23,"49.4","never smoked",0
+41858,"Female",63,0,1,"Yes","Private","Rural",86.21,"39.1","never smoked",0
+22891,"Female",42,0,0,"Yes","Self-employed","Urban",98.76,"26.4","smokes",0
+42553,"Female",80,0,0,"Yes","Private","Rural",148.91,"28.3","never smoked",0
+20162,"Female",80,0,0,"Yes","Private","Rural",75.62,"25.1","smokes",0
+32840,"Female",52,0,0,"Yes","Private","Urban",97.32,"21.8","smokes",0
+49929,"Male",20,0,0,"No","Private","Rural",124.66,"27.3","never smoked",0
+27493,"Female",45,0,0,"Yes","Private","Urban",86.06,"38.1","never smoked",0
+49939,"Female",54,0,0,"Yes","Self-employed","Urban",56.75,"26.9","never smoked",0
+31911,"Female",54,0,0,"Yes","Govt_job","Urban",98.44,"25.8","formerly smoked",0
+47802,"Male",28,0,0,"No","Private","Urban",256.74,"23.4","formerly smoked",0
+17245,"Female",28,0,0,"Yes","Private","Rural",87.01,"39.9","never smoked",0
+9415,"Female",69,0,0,"Yes","Self-employed","Urban",80.85,"29.3","formerly smoked",0
+71339,"Female",40,0,0,"Yes","Govt_job","Urban",114.32,"28.3","smokes",0
+16906,"Male",43,0,0,"Yes","Govt_job","Urban",101.65,"30","never smoked",0
+72020,"Male",71,0,1,"Yes","Self-employed","Rural",207.32,"32.4","smokes",0
+59729,"Male",53,0,0,"Yes","Private","Urban",211.03,"34.2","formerly smoked",0
+56961,"Female",40,0,0,"No","Govt_job","Rural",70.56,"32.3","never smoked",0
+62460,"Male",62,0,0,"Yes","Private","Rural",115.13,"30","smokes",0
+40076,"Female",46,0,0,"Yes","Private","Rural",70.11,"24.2","never smoked",0
+28013,"Female",38,0,0,"Yes","Self-employed","Urban",98.37,"27.2","never smoked",0
+57612,"Male",62,0,0,"Yes","Private","Urban",81.64,"38.2","never smoked",0
+18181,"Male",44,0,0,"Yes","Private","Rural",105.49,"31.5","smokes",0
+24174,"Female",50,0,0,"Yes","Govt_job","Rural",124.45,"24.6","never smoked",0
+60159,"Female",29,0,0,"No","Govt_job","Rural",118.61,"26.5","never smoked",0
+45922,"Female",23,0,0,"No","Private","Urban",58.81,"25.4","never smoked",0
+48069,"Female",61,0,0,"Yes","Private","Rural",194.53,"45","never smoked",0
+14499,"Male",47,0,0,"Yes","Private","Urban",86.94,"41.1","formerly smoked",1
+16783,"Male",57,0,1,"Yes","Self-employed","Urban",92.82,"27.8","formerly smoked",0
+13374,"Male",48,0,0,"Yes","Private","Urban",100.03,"23.5","never smoked",0
+61651,"Male",48,0,0,"Yes","Private","Rural",113.84,"21.9","never smoked",0
+47585,"Female",31,0,0,"No","Self-employed","Urban",62.68,"35.8","never smoked",0
+72642,"Male",67,0,0,"Yes","Govt_job","Urban",67.79,"26","formerly smoked",0
+33952,"Male",66,1,0,"Yes","Private","Urban",82.91,"28.9","formerly smoked",0
+22614,"Male",64,0,0,"No","Self-employed","Rural",82.62,"25.3","smokes",0
+36960,"Female",79,0,0,"Yes","Private","Rural",79.53,"37.3","never smoked",0
+11382,"Male",18,0,0,"No","Private","Rural",98.07,"24","never smoked",0
+51963,"Male",58,0,0,"Yes","Private","Urban",69.24,"27.6","never smoked",0
+61365,"Male",45,0,0,"Yes","Private","Rural",58.25,"24","smokes",0
+44656,"Female",69,1,0,"Yes","Private","Rural",112.69,"33.5","formerly smoked",0
+57137,"Male",65,0,0,"Yes","Private","Urban",59.87,"28.5","smokes",0
+60562,"Female",21,0,0,"No","Private","Rural",55.12,"21.8","never smoked",0
+72188,"Male",33,0,0,"No","Private","Urban",107.47,"26.7","never smoked",0
+59412,"Female",25,0,0,"Yes","Private","Urban",58.48,"23.7","never smoked",0
+65429,"Female",66,0,0,"Yes","Govt_job","Rural",93.34,"27.7","never smoked",0
+51584,"Male",26,0,0,"No","Private","Urban",71.25,"30.3","smokes",0
+45252,"Male",54,0,0,"Yes","Private","Urban",141.37,"23.5","never smoked",0
+13948,"Female",19,0,0,"No","Never_worked","Urban",86.96,"25.8","never smoked",0
+64908,"Male",79,0,1,"Yes","Private","Urban",57.08,"22","formerly smoked",0
+18283,"Female",51,0,0,"Yes","Govt_job","Urban",81.38,"34.1","smokes",0
+45701,"Female",72,0,1,"No","Self-employed","Rural",124.38,"23.4","formerly smoked",0
+50723,"Male",47,0,0,"Yes","Private","Rural",131.19,"28.3","smokes",0
+60603,"Female",51,0,0,"No","Private","Rural",66.67,"29.5","never smoked",0
+50508,"Female",63,0,1,"Yes","Self-employed","Rural",239.95,"32.2","smokes",0
+53252,"Male",82,0,0,"No","Self-employed","Urban",161.95,"30.8","never smoked",0
+4699,"Male",50,0,0,"No","Govt_job","Rural",121.17,"25.5","formerly smoked",0
+53141,"Female",25,0,0,"No","Private","Rural",67.73,"22.6","never smoked",0
+18671,"Female",47,0,0,"Yes","Govt_job","Rural",111.68,"39.5","never smoked",0
+43090,"Female",62,1,0,"Yes","Self-employed","Rural",74.32,"34","never smoked",0
+59147,"Male",20,0,0,"No","Private","Urban",96.2,"21.5","never smoked",0
+15422,"Male",31,0,0,"No","Govt_job","Rural",80.57,"28.2","formerly smoked",0
+13465,"Female",20,0,0,"No","Private","Rural",96.69,"27.4","smokes",0
+44878,"Male",53,0,0,"Yes","Private","Rural",175.92,"26.9","smokes",0
+56469,"Male",67,0,0,"Yes","Private","Urban",238.78,"35.7","formerly smoked",0
+2846,"Female",46,0,0,"Yes","Private","Rural",85.81,"20.2","formerly smoked",0
+60139,"Female",32,0,0,"Yes","Self-employed","Rural",128.72,"26.3","smokes",0
+53821,"Male",18,0,0,"No","Private","Rural",100.47,"31.9","never smoked",0
+23988,"Female",45,0,0,"Yes","Private","Rural",76.68,"34.8","smokes",0
+8899,"Male",49,0,0,"No","Private","Rural",104.86,"31.9","smokes",1
+24961,"Female",38,0,0,"Yes","Private","Rural",107.78,"25.1","never smoked",0
+14414,"Female",34,0,0,"Yes","Private","Rural",85.79,"32","never smoked",0
+72289,"Female",44,0,0,"Yes","Private","Rural",68.42,"43.2","smokes",0
+39017,"Female",72,0,0,"Yes","Govt_job","Rural",118.22,"21.9","formerly smoked",0
+17718,"Female",33,1,0,"Yes","Private","Urban",74.44,"45.2","smokes",0
+13949,"Female",44,0,0,"Yes","Govt_job","Urban",67.06,"35.5","never smoked",0
+63491,"Female",63,0,0,"Yes","Private","Urban",109.65,"28.6","formerly smoked",0
+56328,"Female",70,0,0,"Yes","Private","Rural",212.87,"34.8","never smoked",0
+13155,"Female",67,1,0,"Yes","Govt_job","Rural",263.56,"26.3","never smoked",0
+65794,"Female",81,1,0,"Yes","Private","Rural",164.77,"34.5","never smoked",0
+64165,"Female",24,0,0,"No","Private","Urban",71.63,"22","formerly smoked",0
+72215,"Female",66,0,0,"Yes","Self-employed","Rural",212.92,"21.4","never smoked",0
+11327,"Female",82,0,0,"Yes","Self-employed","Urban",79.96,"27","formerly smoked",0
+35893,"Male",28,0,0,"No","Private","Urban",116.02,"36.6","formerly smoked",0
+28904,"Female",75,0,0,"Yes","Self-employed","Rural",74.79,"32.4","never smoked",0
+66590,"Female",43,0,0,"Yes","Self-employed","Urban",67.5,"20.4","formerly smoked",0
+68981,"Female",71,1,0,"Yes","Govt_job","Urban",219.8,"34.2","formerly smoked",0
+38165,"Female",81,0,0,"No","Private","Rural",69.01,"32.6","never smoked",0
+34958,"Male",14,0,0,"No","children","Urban",92.86,"20.7","formerly smoked",0
+53525,"Female",72,0,0,"Yes","Private","Urban",83.89,"33.1","formerly smoked",0
+6726,"Female",31,0,0,"Yes","Private","Urban",73.31,"45","never smoked",0
+50277,"Female",51,0,0,"Yes","Self-employed","Rural",67.97,"29.4","smokes",0
+6625,"Female",54,0,0,"Yes","Self-employed","Urban",70.43,"20.8","smokes",0
+37060,"Female",81,0,0,"Yes","Private","Rural",80.13,"23.4","never smoked",1
+61868,"Female",62,0,0,"Yes","Private","Urban",74.12,"21.8","formerly smoked",0
+48064,"Male",11,0,0,"No","children","Rural",65.07,"21.5","never smoked",0
+36155,"Female",57,1,0,"Yes","Private","Urban",98.07,"50.9","formerly smoked",0
+768,"Female",74,0,0,"Yes","Self-employed","Urban",68.18,"27.3","formerly smoked",0
+51806,"Male",31,0,0,"Yes","Private","Rural",77.23,"25.9","smokes",0
+42047,"Female",55,0,0,"Yes","Self-employed","Urban",59.2,"43.8","never smoked",0
+38661,"Female",29,0,0,"No","Private","Urban",56.64,"24.7","never smoked",0
+40670,"Female",20,0,0,"No","Private","Rural",96.57,"34.1","never smoked",0
+16377,"Male",69,0,0,"Yes","Private","Urban",89.06,"34.8","formerly smoked",0
+15062,"Male",40,0,0,"Yes","Govt_job","Urban",82.46,"25.3","smokes",0
+29496,"Female",39,0,0,"Yes","Private","Rural",84.79,"35.7","never smoked",0
+11960,"Male",45,0,0,"Yes","Private","Rural",99.97,"35.6","never smoked",0
+44288,"Male",43,0,0,"Yes","Private","Rural",207.37,"29.5","formerly smoked",0
+15098,"Female",65,0,0,"Yes","Private","Rural",95.87,"29.8","never smoked",0
+49229,"Male",52,0,0,"No","Govt_job","Rural",72.71,"36.9","formerly smoked",0
+61475,"Female",51,1,0,"Yes","Private","Rural",85.84,"31.8","never smoked",0
+65526,"Female",47,0,0,"Yes","Private","Urban",77.91,"30.3","formerly smoked",0
+38549,"Female",62,0,0,"Yes","Private","Urban",212.62,"35.8","never smoked",0
+48017,"Male",55,0,0,"Yes","Private","Urban",62.56,"28.6","never smoked",0
+1836,"Female",51,1,0,"Yes","Private","Urban",88.2,"28.4","never smoked",1
+63912,"Female",77,0,0,"Yes","Govt_job","Rural",167.59,"34.3","formerly smoked",0
+27596,"Female",82,1,0,"Yes","Private","Urban",115.71,"31.1","formerly smoked",0
+46923,"Male",64,0,1,"Yes","Private","Rural",82.89,"29.5","never smoked",0
+52550,"Female",79,0,0,"Yes","Govt_job","Urban",83.56,"28.7","smokes",0
+39593,"Female",39,0,0,"Yes","Private","Urban",80.63,"36","smokes",0
+338,"Female",43,0,0,"Yes","Private","Rural",110.32,"28.4","never smoked",0
+44171,"Male",62,0,0,"Yes","Private","Rural",62.56,"32.3","never smoked",0
+23223,"Male",51,0,0,"Yes","Private","Rural",239.28,"35","never smoked",0
+12095,"Female",61,0,1,"Yes","Govt_job","Rural",120.46,"36.8","smokes",1
+48144,"Female",20,0,0,"No","Govt_job","Rural",73,"20.8","never smoked",0
+34068,"Female",23,0,0,"Yes","Govt_job","Urban",77.53,"33.9","formerly smoked",0
+45048,"Female",21,0,0,"No","Private","Urban",134.45,"29.1","never smoked",0
+37698,"Female",15,0,0,"No","children","Urban",87.96,"21.5","formerly smoked",0
+67932,"Female",48,0,0,"Yes","Private","Rural",75.74,"28.8","smokes",0
+54067,"Female",26,0,0,"No","Private","Rural",67.21,"21.8","formerly smoked",0
+38258,"Female",63,0,0,"Yes","Private","Rural",91.36,"38.8","formerly smoked",0
+2953,"Female",43,0,0,"Yes","Private","Rural",75.05,"22.9","smokes",0
+11280,"Female",28,0,0,"Yes","Private","Urban",98.05,"24.7","never smoked",0
+50485,"Male",54,0,0,"Yes","Private","Rural",227.74,"33.4","smokes",0
+14695,"Male",80,1,0,"Yes","Self-employed","Rural",232.12,"28.8","never smoked",0
+62951,"Female",32,0,0,"Yes","Private","Rural",61.83,"31.3","never smoked",0
+34965,"Female",18,0,0,"No","Private","Urban",95.87,"23","never smoked",0
+37253,"Female",70,1,0,"Yes","Private","Urban",147.12,"22.3","formerly smoked",0
+41291,"Female",46,0,0,"Yes","Private","Rural",218.65,"29.5","never smoked",0
+55137,"Female",25,0,0,"No","Private","Urban",125.98,"21","smokes",0
+64742,"Male",48,0,0,"No","Self-employed","Rural",64.18,"32.1","never smoked",0
+30335,"Male",21,0,0,"No","Private","Rural",92.86,"23.2","never smoked",0
+18805,"Male",39,0,0,"Yes","Private","Urban",95.44,"38.4","never smoked",0
+48830,"Male",30,0,0,"Yes","Private","Urban",104.62,"33.5","smokes",0
+18040,"Female",49,0,0,"Yes","Govt_job","Rural",89.61,"27.7","never smoked",0
+23462,"Female",17,0,0,"No","Private","Urban",87.52,"39.2","never smoked",0
+68816,"Male",59,0,0,"Yes","Private","Rural",93.9,"42.2","never smoked",0
+66264,"Male",29,0,0,"Yes","Govt_job","Urban",102.4,"26.9","smokes",0
+39708,"Male",55,0,0,"Yes","Private","Rural",56.87,"28.9","formerly smoked",0
+32503,"Female",80,0,0,"Yes","Self-employed","Urban",76.57,"34.1","never smoked",1
+30806,"Male",37,0,0,"Yes","Self-employed","Urban",87.16,"30.4","formerly smoked",0
+1731,"Female",80,0,0,"No","Self-employed","Urban",72.71,"29.9","never smoked",0
+55566,"Female",34,0,0,"Yes","Private","Rural",231.5,"45.4","never smoked",0
+58138,"Male",57,0,0,"Yes","Private","Rural",111.64,"31.5","never smoked",0
+10538,"Male",75,1,1,"Yes","Self-employed","Urban",195.03,"28.7","formerly smoked",0
+65892,"Female",58,0,0,"Yes","Self-employed","Urban",66.71,"51.7","never smoked",0
+65130,"Male",40,0,0,"Yes","Private","Rural",144.48,"29.8","smokes",0
+36679,"Female",22,1,0,"No","Private","Urban",71.22,"40","never smoked",0
+844,"Female",54,0,0,"Yes","Private","Urban",76.04,"29.5","smokes",0
+61757,"Male",31,0,0,"Yes","Self-employed","Rural",61.1,"26.5","never smoked",0
+14807,"Female",40,0,0,"Yes","Private","Urban",75.87,"30.3","never smoked",0
+37680,"Male",55,0,0,"Yes","Govt_job","Rural",108.35,"40.8","formerly smoked",0
+11325,"Female",12,0,0,"No","children","Rural",111.08,"23.2","never smoked",0
+36946,"Male",74,0,0,"Yes","Private","Rural",92.67,"26.3","formerly smoked",0
+3673,"Female",55,0,0,"Yes","Private","Rural",112.47,"32.8","smokes",0
+11816,"Female",46,0,0,"Yes","Self-employed","Urban",71.12,"27.3","never smoked",0
+48644,"Female",47,0,0,"Yes","Self-employed","Rural",115.91,"22.2","formerly smoked",0
+7780,"Male",51,0,0,"Yes","Self-employed","Urban",75.73,"30.7","never smoked",0
+55140,"Male",69,1,0,"No","Private","Urban",75.95,"28.6","never smoked",0
+16542,"Female",60,0,0,"Yes","Govt_job","Urban",86.34,"22.1","never smoked",0
+66945,"Female",49,0,0,"Yes","Private","Urban",85.33,"25.5","never smoked",0
+14785,"Female",41,0,0,"Yes","Private","Rural",92.64,"43.8","never smoked",0
+35854,"Female",23,0,0,"No","Private","Urban",88.19,"18.3","never smoked",0
+53266,"Female",33,0,0,"Yes","Private","Urban",79.91,"33.5","never smoked",0
+49624,"Male",69,0,0,"Yes","Private","Urban",98.92,"23.9","formerly smoked",0
+63656,"Female",18,0,0,"No","Private","Urban",101.95,"46","formerly smoked",0
+45627,"Male",60,0,0,"Yes","Private","Rural",70.52,"26.5","formerly smoked",0
+40602,"Female",22,0,0,"No","Private","Urban",62.52,"38.2","never smoked",0
+40503,"Male",21,0,0,"No","Private","Rural",62.91,"26.2","never smoked",0
+53957,"Male",71,0,0,"Yes","Self-employed","Urban",96.04,"45.1","formerly smoked",0
+20673,"Male",39,0,0,"Yes","Private","Rural",102.35,"23.6","never smoked",0
+61699,"Male",80,0,0,"Yes","Private","Rural",94.96,"22.1","formerly smoked",0
+32974,"Male",67,0,0,"Yes","Govt_job","Urban",66.67,"35","smokes",0
+15282,"Female",77,0,0,"Yes","Private","Rural",90.96,"31.5","formerly smoked",0
+19769,"Female",67,0,0,"Yes","Self-employed","Rural",80.18,"22.9","formerly smoked",0
+69089,"Female",40,0,0,"Yes","Private","Rural",83.3,"32","smokes",0
+49901,"Male",55,0,0,"Yes","Govt_job","Urban",154.03,"31.6","smokes",0
+51024,"Female",24,0,0,"Yes","Private","Urban",105.26,"26.1","never smoked",0
+55824,"Male",76,0,0,"Yes","Private","Urban",140.1,"29.9","formerly smoked",1
+21472,"Male",52,0,1,"Yes","Self-employed","Rural",102.97,"41.9","formerly smoked",0
+30457,"Female",53,1,0,"Yes","Govt_job","Rural",98.61,"38.8","smokes",0
+27818,"Female",27,0,0,"No","Private","Rural",104.21,"35.7","never smoked",0
+6072,"Female",57,0,0,"Yes","Private","Urban",94.18,"27.1","never smoked",0
+31811,"Female",52,0,1,"Yes","Private","Urban",85.66,"39.4","never smoked",0
+39258,"Female",59,0,0,"Yes","Self-employed","Urban",65.82,"29.4","never smoked",0
+51856,"Male",38,1,0,"Yes","Private","Rural",56.9,"92","never smoked",0
+56804,"Female",34,0,0,"No","Govt_job","Urban",60.36,"24.1","never smoked",0
+44033,"Male",56,1,0,"Yes","Private","Rural",249.31,"35.8","never smoked",1
+30712,"Male",50,0,0,"Yes","Private","Urban",103.51,"35.9","never smoked",0
+12345,"Male",11,0,0,"No","children","Urban",73.18,"27.6","never smoked",0
+72911,"Female",57,1,0,"Yes","Private","Rural",129.54,"60.9","smokes",0
+22952,"Female",21,0,0,"No","Govt_job","Urban",111.61,"36.9","smokes",0
+51116,"Female",40,0,0,"Yes","Self-employed","Urban",64.66,"25","formerly smoked",0
+16260,"Male",73,0,1,"Yes","Self-employed","Rural",189.45,"32.2","never smoked",0
+7291,"Female",58,0,0,"No","Private","Urban",82.01,"34.7","formerly smoked",0
+63450,"Female",64,0,0,"Yes","Self-employed","Rural",128.04,"34","smokes",0
+58227,"Female",64,0,0,"Yes","Govt_job","Rural",62.41,"30","never smoked",0
+10716,"Female",49,0,0,"Yes","Private","Rural",107.46,"32.1","never smoked",0
+70380,"Female",20,0,0,"No","Private","Urban",112.96,"27.5","never smoked",0
+59437,"Female",57,0,0,"Yes","Private","Urban",221.89,"37.3","smokes",1
+70822,"Male",80,0,0,"Yes","Self-employed","Rural",104.12,"23.5","never smoked",1
+60663,"Male",70,1,0,"Yes","Private","Rural",74.04,"29.1","never smoked",0
+55790,"Female",45,0,0,"Yes","Private","Urban",106.83,"32.1","formerly smoked",0
+29077,"Female",77,0,0,"Yes","Private","Rural",95.1,"35","never smoked",0
+55169,"Male",34,0,0,"Yes","Private","Rural",72.64,"32.4","never smoked",0
+23587,"Female",16,0,0,"No","Never_worked","Urban",84.4,"25.9","never smoked",0
+47321,"Female",74,0,0,"Yes","Private","Rural",83.58,"18.2","never smoked",0
+10924,"Female",60,0,0,"Yes","Private","Rural",87.62,"30.1","smokes",0
+6886,"Male",19,0,0,"No","Private","Rural",84.31,"31.8","never smoked",0
+62439,"Female",51,0,0,"Yes","Govt_job","Rural",103.43,"27.3","formerly smoked",1
+9122,"Male",25,0,0,"Yes","Private","Urban",89.87,"26.5","never smoked",0
+31712,"Female",53,0,0,"Yes","Private","Urban",88.38,"25.4","never smoked",0
+66637,"Female",49,0,0,"Yes","Govt_job","Urban",117.34,"21.6","never smoked",0
+61050,"Male",37,0,0,"Yes","Govt_job","Rural",107.58,"25.3","never smoked",0
+44526,"Male",58,0,0,"Yes","Govt_job","Urban",101.96,"34.5","never smoked",0
+57757,"Female",77,0,0,"Yes","Self-employed","Rural",59.91,"18.3","never smoked",0
+15415,"Male",41,1,1,"Yes","Private","Urban",94.47,"43.9","never smoked",0
+24202,"Male",63,0,0,"Yes","Private","Rural",78.23,"34.8","never smoked",0
+11098,"Male",75,0,0,"Yes","Govt_job","Rural",93.93,"24.4","formerly smoked",0
+40379,"Female",57,0,0,"Yes","Private","Rural",98.57,"31.6","never smoked",0
+69551,"Male",69,1,0,"No","Private","Rural",182.99,"36.5","never smoked",1
+62284,"Male",63,0,0,"Yes","Self-employed","Rural",78.43,"18.8","never smoked",0
+55424,"Female",64,1,0,"Yes","Private","Rural",88.53,"24.6","never smoked",0
+27176,"Female",69,0,0,"Yes","Private","Rural",103.73,"34.7","never smoked",0
+13818,"Female",65,0,0,"Yes","Private","Rural",71.06,"26.4","never smoked",0
+31956,"Female",58,0,0,"Yes","Private","Urban",76.99,"29","never smoked",0
+41827,"Male",58,0,0,"Yes","Private","Rural",135.89,"23.1","formerly smoked",0
+6295,"Female",57,0,0,"Yes","Govt_job","Urban",104.36,"19.2","smokes",0
+38761,"Female",50,0,0,"Yes","Private","Urban",65.98,"21.7","never smoked",0
+36388,"Male",44,1,0,"Yes","Private","Rural",91.28,"26.5","never smoked",0
+21608,"Male",56,1,0,"Yes","Govt_job","Urban",72.79,"23.8","smokes",0
+39531,"Male",50,1,0,"Yes","Private","Rural",220.36,"40.9","formerly smoked",0
+55410,"Female",50,0,0,"Yes","Self-employed","Urban",62.63,"23.4","never smoked",0
+2578,"Male",16,0,0,"No","Govt_job","Rural",78.48,"22.6","never smoked",0
+44862,"Female",39,0,0,"Yes","Private","Rural",83.51,"26.4","never smoked",0
+9179,"Female",32,0,0,"No","Private","Urban",74.2,"23","smokes",0
+51564,"Female",24,0,0,"No","Govt_job","Urban",104.86,"19.8","never smoked",0
+56923,"Male",52,1,0,"Yes","Private","Rural",116.21,"32.8","smokes",0
+9262,"Female",31,0,0,"Yes","Private","Rural",76.26,"35.6","never smoked",0
+45713,"Female",57,0,0,"Yes","Govt_job","Urban",219.5,"33.8","formerly smoked",0
+63280,"Female",65,0,0,"Yes","Private","Rural",82.83,"27.8","formerly smoked",0
+49179,"Male",10,0,0,"No","children","Rural",84.81,"16.8","never smoked",0
+6517,"Female",24,0,0,"Yes","Govt_job","Urban",83.1,"42.5","smokes",0
+28418,"Female",41,0,0,"Yes","Private","Rural",107.18,"22.8","never smoked",0
+6443,"Female",66,0,0,"Yes","Private","Urban",95.37,"34.5","smokes",0
+38047,"Female",65,0,0,"Yes","Private","Rural",100.98,"28.2","formerly smoked",1
+1821,"Female",54,0,0,"Yes","Private","Urban",85.22,"50.2","never smoked",0
+51169,"Male",81,0,0,"Yes","Private","Urban",72.81,"26.3","never smoked",1
+26723,"Female",57,0,0,"Yes","Private","Urban",83.14,"31.9","never smoked",0
+22691,"Female",29,0,0,"Yes","Self-employed","Urban",90.52,"28","never smoked",0
+34896,"Female",17,0,0,"No","Private","Rural",92.11,"43","never smoked",0
+36811,"Female",23,0,0,"No","Private","Urban",94.09,"30.9","never smoked",0
+50140,"Female",44,0,0,"Yes","Govt_job","Rural",133.24,"45","smokes",0
+36524,"Male",66,0,1,"Yes","Private","Rural",239.21,"33.7","formerly smoked",0
+56075,"Female",58,0,0,"Yes","Private","Rural",196.5,"37.7","never smoked",0
+36488,"Male",12,0,0,"No","children","Urban",111.47,"32.3","never smoked",0
+31600,"Female",33,0,0,"No","Private","Rural",106.08,"32.5","formerly smoked",0
+64972,"Male",47,0,0,"Yes","Private","Rural",57.76,"33.2","smokes",0
+22485,"Male",56,0,0,"Yes","Private","Urban",197.1,"43.6","formerly smoked",0
+45040,"Male",55,0,0,"Yes","Private","Urban",203.81,"33.9","formerly smoked",0
+68420,"Female",13,0,0,"No","children","Urban",63.22,"18.5","formerly smoked",0
+6976,"Female",40,0,0,"Yes","Private","Urban",93.97,"23.6","never smoked",0
+33185,"Male",59,0,0,"No","Govt_job","Urban",83.6,"27.5","formerly smoked",0
+22685,"Male",20,0,0,"No","Private","Rural",184.25,"27.5","never smoked",0
+69710,"Female",46,0,0,"No","Self-employed","Rural",64.09,"25.3","never smoked",0
+29514,"Female",43,0,0,"Yes","Private","Rural",97.55,"28.3","formerly smoked",0
+53478,"Female",40,0,0,"Yes","Private","Urban",89.61,"41.2","formerly smoked",0
+24836,"Female",61,0,0,"Yes","Private","Rural",72.01,"26","formerly smoked",0
+25833,"Female",43,0,0,"Yes","Private","Rural",107.43,"26.5","never smoked",0
+37289,"Female",63,0,0,"Yes","Self-employed","Rural",203.87,"26.4","never smoked",0
+34590,"Male",45,0,0,"Yes","Self-employed","Rural",75.25,"27.6","smokes",0
+24955,"Female",22,0,0,"No","Private","Rural",102,"40.4","smokes",0
+63606,"Male",29,0,0,"Yes","Govt_job","Urban",60.34,"29.6","formerly smoked",0
+27213,"Male",64,1,0,"Yes","Self-employed","Rural",178.29,"36.1","never smoked",0
+52677,"Female",47,0,0,"Yes","Private","Urban",84.04,"24.7","never smoked",0
+19467,"Male",60,1,0,"Yes","Private","Urban",86.04,"25.6","smokes",0
+9637,"Male",26,0,0,"Yes","Private","Rural",120.31,"22.3","smokes",0
+12380,"Male",43,0,0,"Yes","Govt_job","Rural",83.78,"21.6","never smoked",0
+7745,"Female",35,0,0,"Yes","Private","Urban",109.03,"19.5","formerly smoked",0
+3305,"Male",65,0,0,"Yes","Private","Urban",197.69,"28.4","smokes",0
+364,"Female",58,0,0,"Yes","Private","Urban",105.74,"26.8","formerly smoked",0
+47937,"Female",57,0,0,"Yes","Self-employed","Rural",78.14,"35.8","never smoked",0
+11745,"Female",29,0,0,"Yes","Private","Urban",65.36,"28.8","formerly smoked",0
+25404,"Male",56,0,0,"Yes","Private","Rural",93.72,"31.4","never smoked",0
+26884,"Female",72,0,0,"Yes","Self-employed","Urban",103.78,"32.7","formerly smoked",0
+43837,"Male",33,0,0,"Yes","Private","Urban",105.19,"50.1","smokes",0
+18986,"Female",45,0,0,"No","Self-employed","Urban",88.47,"29.3","never smoked",0
+2633,"Male",32,0,0,"Yes","Private","Rural",71.5,"31.8","never smoked",0
+3655,"Male",31,0,0,"Yes","Govt_job","Rural",91.65,"24.6","formerly smoked",0
+14410,"Male",54,0,1,"Yes","Govt_job","Urban",90.3,"30.8","smokes",0
+48843,"Female",27,0,0,"No","Private","Urban",58.39,"30.4","never smoked",0
+25446,"Female",45,0,0,"Yes","Govt_job","Urban",79.98,"41.4","never smoked",0
+23052,"Female",54,0,0,"Yes","Private","Rural",94.11,"28.6","formerly smoked",0
+28681,"Female",70,1,0,"Yes","Self-employed","Urban",99.6,"34.3","formerly smoked",0
+66333,"Male",52,0,0,"Yes","Self-employed","Urban",78.4,"64.8","never smoked",0
+11692,"Female",53,0,0,"No","Govt_job","Urban",101.81,"29.4","smokes",0
+65944,"Female",47,0,0,"Yes","Self-employed","Urban",105.88,"39.9","smokes",0
+12092,"Male",16,0,0,"No","Private","Rural",90.39,"26.5","never smoked",0
+60104,"Male",44,0,0,"Yes","Private","Urban",80.73,"28.1","smokes",0
+65473,"Male",23,0,0,"No","Private","Urban",61.96,"22","smokes",0
+33674,"Female",47,0,0,"Yes","Private","Urban",104.7,"20.7","smokes",0
+67052,"Female",36,0,0,"Yes","Private","Urban",76.93,"21.6","never smoked",0
+33924,"Female",26,0,0,"No","Private","Urban",80.94,"22.2","smokes",0
+65836,"Female",78,1,0,"Yes","Private","Urban",182.2,"30.5","formerly smoked",0
+4057,"Male",71,0,0,"Yes","Private","Urban",198.21,"27.3","formerly smoked",0
+65698,"Female",62,0,0,"Yes","Private","Urban",60.2,"27.7","formerly smoked",0
+54567,"Female",46,0,0,"Yes","Private","Urban",78.18,"30.8","never smoked",1
+7937,"Male",60,1,0,"Yes","Govt_job","Urban",213.03,"20.2","smokes",1
+49744,"Female",59,0,0,"Yes","Private","Urban",240.71,"43.9","formerly smoked",0
+58508,"Female",18,0,0,"No","Govt_job","Rural",112.33,"23.2","formerly smoked",0
+44300,"Female",66,0,0,"Yes","Govt_job","Urban",92.04,"23.1","never smoked",0
+54184,"Female",22,0,0,"No","Private","Urban",63.37,"26.5","never smoked",0
+66767,"Female",67,0,0,"Yes","Govt_job","Rural",94.61,"28.4","smokes",0
+12022,"Male",37,0,0,"Yes","Govt_job","Urban",82.09,"35.7","smokes",0
+33943,"Female",39,0,0,"Yes","Private","Urban",83.24,"26.3","never smoked",1
+808,"Female",16,0,0,"No","Private","Rural",87.54,"37.8","never smoked",0
+35578,"Male",78,0,0,"No","Self-employed","Urban",90.19,"26.9","never smoked",1
+14943,"Female",17,0,0,"No","Private","Rural",79.62,"21.6","never smoked",0
+40240,"Male",40,1,0,"Yes","Self-employed","Urban",93.2,"24.8","smokes",0
+68141,"Female",58,0,0,"Yes","Private","Rural",65.66,"24.6","formerly smoked",0
+59190,"Female",79,0,1,"Yes","Private","Rural",127.29,"27.7","never smoked",1
+52207,"Female",59,0,0,"Yes","Self-employed","Urban",90.04,"28.7","formerly smoked",0
+60056,"Male",53,0,0,"Yes","Private","Urban",113.21,"28.6","smokes",0
+10281,"Female",51,1,0,"Yes","Self-employed","Rural",176.34,"28.4","never smoked",0
+48425,"Male",21,0,0,"No","Private","Rural",89.29,"23.4","never smoked",0
+49930,"Female",68,0,0,"Yes","Private","Rural",236.04,"28.5","never smoked",0
+59992,"Female",63,1,0,"Yes","Self-employed","Urban",228.2,"37.7","never smoked",0
+70845,"Male",73,0,1,"Yes","Private","Rural",62.44,"25.2","smokes",0
+17478,"Male",44,0,0,"Yes","Govt_job","Urban",101.66,"35.4","never smoked",0
+65154,"Female",30,0,0,"Yes","Private","Urban",112.19,"53.4","never smoked",0
+64553,"Female",53,0,0,"Yes","Private","Rural",68.76,"35.6","formerly smoked",0
+63577,"Female",50,1,0,"Yes","Self-employed","Rural",68.8,"34.9","never smoked",0
+26777,"Male",22,0,0,"No","Private","Rural",86.53,"20.8","never smoked",0
+16535,"Female",34,0,0,"No","Private","Rural",90.15,"27.9","formerly smoked",0
+30002,"Male",44,1,0,"Yes","Self-employed","Rural",83.59,"24.1","never smoked",0
+12204,"Female",51,0,0,"No","Govt_job","Rural",116.14,"20.9","never smoked",0
+56021,"Female",63,1,0,"Yes","Private","Urban",62.13,"23.6","never smoked",0
+259,"Male",79,0,0,"Yes","Private","Urban",198.79,"24.9","never smoked",0
+28674,"Female",74,1,0,"Yes","Self-employed","Urban",205.84,"54.6","never smoked",0
+29352,"Female",26,0,0,"No","Private","Urban",84.86,"37.6","never smoked",0
+59872,"Female",38,0,0,"Yes","Private","Rural",80.82,"49.3","never smoked",0
+17004,"Female",70,0,0,"Yes","Private","Urban",221.58,"47.5","never smoked",1
+40702,"Female",65,0,0,"No","Govt_job","Urban",60.7,"31.3","never smoked",0
+67483,"Male",31,1,0,"Yes","Private","Urban",149.68,"45.1","never smoked",0
+24782,"Male",36,0,0,"Yes","Private","Rural",83.79,"25.5","smokes",0
+33525,"Male",53,0,0,"Yes","Govt_job","Urban",113.4,"35.1","smokes",0
+12259,"Male",50,0,0,"Yes","Private","Urban",77.82,"26.7","formerly smoked",0
+60665,"Male",29,0,0,"No","Private","Urban",59.26,"35.8","smokes",0
+35432,"Female",36,0,0,"Yes","Private","Rural",95.36,"25.1","never smoked",0
+29221,"Female",39,0,0,"Yes","Private","Urban",92.82,"37.4","never smoked",0
+22623,"Male",77,0,0,"Yes","Private","Urban",71.44,"24.1","smokes",0
+68798,"Female",58,0,0,"Yes","Private","Rural",59.86,"28","formerly smoked",1
+3668,"Female",65,0,0,"Yes","Govt_job","Urban",84.47,"52.7","smokes",0
+5500,"Female",50,0,1,"Yes","Govt_job","Urban",68.09,"35.5","smokes",0
+32150,"Female",56,0,0,"Yes","Self-employed","Rural",94.71,"29.6","smokes",0
+37507,"Female",32,0,0,"No","Private","Rural",68.72,"25.1","never smoked",0
+966,"Female",70,1,0,"Yes","Self-employed","Rural",103.89,"30","never smoked",0
+23850,"Male",66,0,0,"Yes","Private","Urban",103.01,"33.1","never smoked",0
+39423,"Female",32,0,0,"Yes","Private","Rural",106.02,"24.9","smokes",0
+68356,"Female",73,0,0,"Yes","Self-employed","Urban",70.94,"34.4","never smoked",1
+58587,"Male",61,0,0,"Yes","Private","Urban",61.32,"23.7","smokes",0
+19209,"Female",48,0,0,"Yes","Govt_job","Rural",255.17,"38.1","formerly smoked",0
+37237,"Female",31,0,0,"No","Private","Rural",87.81,"26.4","smokes",0
+49955,"Male",43,0,0,"No","Private","Urban",78.98,"31.3","formerly smoked",0
+59272,"Male",38,0,0,"Yes","Private","Rural",79.22,"34.8","smokes",0
+27801,"Female",34,0,0,"Yes","Private","Urban",113.26,"27.6","never smoked",0
+55262,"Male",25,0,0,"Yes","Private","Rural",93.88,"24.3","smokes",0
+30753,"Male",42,0,0,"Yes","Govt_job","Urban",93.79,"27.2","never smoked",0
+69037,"Female",72,0,0,"Yes","Private","Rural",210.78,"32.3","formerly smoked",0
+50441,"Male",20,0,0,"No","Private","Rural",104.48,"21.7","never smoked",0
+58153,"Female",18,0,0,"No","Private","Urban",123.66,"22.2","never smoked",0
+16513,"Male",78,0,0,"Yes","Private","Urban",104.37,"29.7","never smoked",0
+56692,"Female",65,0,0,"Yes","Self-employed","Urban",248.24,"27","smokes",0
+59454,"Female",79,0,0,"Yes","Self-employed","Urban",74.35,"28.5","formerly smoked",0
+27796,"Female",66,0,0,"Yes","Private","Urban",102.07,"16.7","smokes",0
+32166,"Male",47,1,0,"Yes","Private","Urban",75.64,"24.4","never smoked",0
+10651,"Male",54,1,0,"Yes","Govt_job","Rural",100.12,"32.3","formerly smoked",0
+36377,"Female",44,0,0,"Yes","Private","Rural",222.29,"38.2","never smoked",0
+69120,"Female",31,0,0,"Yes","Self-employed","Rural",139.81,"39.6","never smoked",0
+49903,"Male",27,0,0,"No","Private","Urban",72.61,"38.5","never smoked",0
+12557,"Female",21,0,0,"No","Self-employed","Urban",91.18,"25.7","never smoked",0
+45257,"Female",38,0,0,"Yes","Private","Rural",81.28,"33.2","smokes",0
+59125,"Female",53,0,0,"Yes","Govt_job","Urban",64.17,"41.5","never smoked",1
+20938,"Female",61,0,0,"Yes","Private","Rural",88.41,"25.3","formerly smoked",0
+35716,"Female",55,1,0,"Yes","Private","Urban",202.67,"40.4","formerly smoked",0
+5581,"Female",39,0,0,"Yes","Private","Rural",89.32,"31","formerly smoked",0
+156,"Female",33,0,0,"Yes","Private","Rural",86.97,"42.2","never smoked",0
+48693,"Female",43,0,0,"Yes","Private","Rural",91.9,"32.7","formerly smoked",0
+26366,"Female",27,0,0,"No","Private","Rural",103.35,"28.1","formerly smoked",0
+56669,"Male",81,0,0,"Yes","Private","Urban",186.21,"29","formerly smoked",1
+29539,"Male",62,1,0,"Yes","Self-employed","Rural",95.49,"40.2","smokes",0
+48368,"Female",65,0,0,"Yes","Self-employed","Rural",104.21,"36.8","never smoked",0
+46875,"Male",35,0,0,"Yes","Private","Urban",145.23,"32.3","never smoked",0
+15517,"Female",35,0,0,"Yes","Private","Urban",81.9,"24.5","never smoked",0
+59521,"Male",33,0,0,"Yes","Private","Rural",74.88,"31.6","smokes",0
+59223,"Male",48,0,0,"Yes","Private","Urban",68.13,"38","formerly smoked",0
+50495,"Male",58,1,0,"Yes","Private","Rural",106.27,"28.6","never smoked",0
+39601,"Female",33,0,0,"Yes","Private","Urban",69.4,"47.8","never smoked",0
+10981,"Male",12,0,0,"No","children","Rural",96.73,"20.4","never smoked",0
+71515,"Female",66,0,0,"Yes","Private","Rural",200.91,"27.6","never smoked",0
+61743,"Male",28,0,0,"No","Govt_job","Urban",118.66,"32.3","never smoked",0
+6537,"Female",53,0,0,"Yes","Self-employed","Urban",84.85,"24.7","never smoked",0
+13862,"Female",13,0,0,"No","Never_worked","Urban",70.93,"22.9","never smoked",0
+43892,"Female",73,0,0,"Yes","Private","Rural",81.78,"28.8","never smoked",0
+23221,"Male",29,0,0,"No","Private","Urban",83.51,"37.1","never smoked",0
+69835,"Female",57,0,0,"Yes","Private","Rural",131.4,"32.3","never smoked",0
+24832,"Female",65,0,0,"Yes","Self-employed","Urban",77.46,"30.9","formerly smoked",0
+55631,"Male",38,0,0,"Yes","Private","Rural",133.62,"25.2","never smoked",0
+49702,"Female",81,0,0,"Yes","Self-employed","Rural",101.32,"29.6","formerly smoked",0
+39242,"Male",80,1,1,"Yes","Private","Urban",86.68,"27.7","formerly smoked",0
+50372,"Male",57,0,0,"Yes","Private","Rural",233.47,"35.5","never smoked",0
+8096,"Female",49,0,0,"Yes","Private","Urban",101.02,"24.2","smokes",0
+37893,"Female",37,0,0,"Yes","Private","Rural",73.5,"26.1","formerly smoked",0
+26935,"Female",50,1,0,"Yes","Private","Urban",213.43,"36.7","smokes",0
+54401,"Male",80,0,1,"Yes","Self-employed","Urban",252.72,"30.5","formerly smoked",1
+10245,"Female",54,0,0,"Yes","Self-employed","Rural",77.52,"35.8","never smoked",0
+51894,"Female",65,0,0,"Yes","Private","Rural",185.28,"32","smokes",0
+10973,"Male",43,0,0,"Yes","Private","Urban",91.13,"33.9","never smoked",0
+46527,"Male",53,1,1,"Yes","Govt_job","Rural",109.51,"41.9","never smoked",0
+61512,"Female",71,0,0,"Yes","Self-employed","Urban",144.23,"22.1","formerly smoked",0
+6019,"Female",57,0,0,"Yes","Private","Urban",82.62,"28.4","never smoked",0
+30567,"Male",71,1,0,"Yes","Private","Urban",94.65,"25.3","formerly smoked",0
+22231,"Male",58,0,0,"Yes","Private","Urban",199.42,"29","never smoked",0
+1505,"Male",71,0,1,"Yes","Self-employed","Rural",101.13,"35.9","formerly smoked",0
+13988,"Female",46,0,0,"Yes","Private","Rural",75.09,"28.7","never smoked",0
+14391,"Female",30,0,0,"Yes","Private","Rural",89.63,"23.2","smokes",0
+54869,"Female",30,0,0,"Yes","Private","Urban",116.98,"26","never smoked",0
+60816,"Female",82,1,0,"Yes","Private","Urban",62.46,"20.3","formerly smoked",0
+17019,"Female",30,0,0,"Yes","Govt_job","Urban",113.85,"34","never smoked",0
+32645,"Female",44,0,0,"Yes","Private","Rural",97.59,"30.5","smokes",0
+33115,"Male",32,0,0,"Yes","Private","Rural",82.68,"29.2","never smoked",0
+30285,"Male",72,0,1,"Yes","Self-employed","Rural",74.36,"27.3","never smoked",0
+4692,"Female",74,0,0,"Yes","Govt_job","Urban",251.99,"25.5","never smoked",0
+46436,"Male",13,0,0,"No","children","Urban",122.31,"15.3","never smoked",0
+44628,"Female",38,0,0,"Yes","Private","Rural",91.09,"22.2","never smoked",0
+29258,"Female",37,0,0,"No","Private","Urban",89.11,"24.1","never smoked",0
+54383,"Male",60,0,0,"Yes","Private","Rural",101.34,"32.8","never smoked",0
+69312,"Female",48,0,0,"Yes","Self-employed","Urban",99.29,"31.2","never smoked",0
+63144,"Male",17,0,0,"No","Govt_job","Urban",123.04,"29.6","never smoked",0
+49645,"Male",58,0,0,"No","Private","Rural",76.22,"22.2","formerly smoked",0
+39229,"Female",24,0,0,"Yes","Private","Rural",67.99,"32.1","never smoked",0
+38894,"Female",35,0,0,"Yes","Private","Urban",120.15,"27.3","never smoked",0
+59336,"Male",66,1,0,"Yes","Private","Rural",74.9,"32.1","never smoked",0
+51579,"Male",27,0,0,"No","Self-employed","Rural",63.53,"26.9","never smoked",0
+48989,"Female",34,0,0,"No","Govt_job","Rural",120.06,"33","never smoked",0
+4400,"Female",36,0,0,"Yes","Private","Urban",68.48,"24.3","never smoked",0
